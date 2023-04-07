@@ -1,0 +1,832 @@
+isic_id,diagnosis,age,sex,anatom_site_general,status,imgpath
+ISIC_0000019,nevus,30,female,posterior torso,malignant,static/image/ISIC_0000019_nevus.jpg
+ISIC_0000020,nevus,25,female,anterior torso,malignant,static/image/ISIC_0000020_nevus.jpg
+ISIC_0000021,nevus,55,female,posterior torso,malignant,static/image/ISIC_0000021_nevus.jpg
+ISIC_0000023,nevus,30,female,anterior torso,malignant,static/image/ISIC_0000023_nevus.jpg
+ISIC_0000024,nevus,45,male,posterior torso,malignant,static/image/ISIC_0000024_nevus.jpg
+ISIC_0000025,nevus,35,female,lower extremity,malignant,static/image/ISIC_0000025_nevus.jpg
+ISIC_0000027,nevus,35,female,anterior torso,malignant,static/image/ISIC_0000027_nevus.jpg
+ISIC_0000028,nevus,60,male,anterior torso,malignant,static/image/ISIC_0000028_nevus.jpg
+ISIC_0000032,nevus,30,female,posterior torso,malignant,static/image/ISIC_0000032_nevus.jpg
+ISIC_0000033,nevus,45,female,lower extremity,malignant,static/image/ISIC_0000033_nevus.jpg
+ISIC_0000034,nevus,30,female,posterior torso,malignant,static/image/ISIC_0000034_nevus.jpg
+ISIC_0000037,nevus,70,male,posterior torso,malignant,static/image/ISIC_0000037_nevus.jpg
+ISIC_0000038,nevus,40,female,posterior torso,malignant,static/image/ISIC_0000038_nevus.jpg
+ISIC_0000039,nevus,60,female,posterior torso,malignant,static/image/ISIC_0000039_nevus.jpg
+ISIC_0000041,nevus,40,female,lower extremity,malignant,static/image/ISIC_0000041_nevus.jpg
+ISIC_0000042,nevus,50,male,anterior torso,malignant,static/image/ISIC_0000042_nevus.jpg
+ISIC_0000047,nevus,70,male,lower extremity,malignant,static/image/ISIC_0000047_nevus.jpg
+ISIC_0000050,nevus,30,male,anterior torso,malignant,static/image/ISIC_0000050_nevus.jpg
+ISIC_0000051,nevus,55,male,upper extremity,malignant,static/image/ISIC_0000051_nevus.jpg
+ISIC_0000052,nevus,40,female,posterior torso,malignant,static/image/ISIC_0000052_nevus.jpg
+ISIC_0000053,nevus,25,female,posterior torso,malignant,static/image/ISIC_0000053_nevus.jpg
+ISIC_0000055,nevus,40,female,posterior torso,malignant,static/image/ISIC_0000055_nevus.jpg
+ISIC_0000057,nevus,40,female,lower extremity,malignant,static/image/ISIC_0000057_nevus.jpg
+ISIC_0000058,nevus,40,female,posterior torso,malignant,static/image/ISIC_0000058_nevus.jpg
+ISIC_0000059,nevus,30,female,lower extremity,malignant,static/image/ISIC_0000059_nevus.jpg
+ISIC_0000060,nevus,35,female,posterior torso,malignant,static/image/ISIC_0000060_nevus.jpg
+ISIC_0000061,nevus,35,female,lower extremity,malignant,static/image/ISIC_0000061_nevus.jpg
+ISIC_0000062,nevus,40,female,posterior torso,malignant,static/image/ISIC_0000062_nevus.jpg
+ISIC_0000063,nevus,45,female,anterior torso,malignant,static/image/ISIC_0000063_nevus.jpg
+ISIC_0000064,nevus,40,female,anterior torso,malignant,static/image/ISIC_0000064_nevus.jpg
+ISIC_0000065,nevus,30,female,posterior torso,malignant,static/image/ISIC_0000065_nevus.jpg
+ISIC_0000066,nevus,55,female,posterior torso,malignant,static/image/ISIC_0000066_nevus.jpg
+ISIC_0000067,nevus,45,female,posterior torso,malignant,static/image/ISIC_0000067_nevus.jpg
+ISIC_0000068,nevus,35,female,anterior torso,malignant,static/image/ISIC_0000068_nevus.jpg
+ISIC_0000073,nevus,20,female,posterior torso,malignant,static/image/ISIC_0000073_nevus.jpg
+ISIC_0000079,nevus,55,female,lower extremity,malignant,static/image/ISIC_0000079_nevus.jpg
+ISIC_0000080,nevus,35,Male,upper body,malignant,static/image/ISIC_0000080_nevus.jpg
+ISIC_0000081,nevus,35,Male,upper body,malignant,static/image/ISIC_0000081_nevus.jpg
+ISIC_0000082,nevus,35,Male,upper body,malignant,static/image/ISIC_0000082_nevus.jpg
+ISIC_0000083,nevus,35,Male,upper body,malignant,static/image/ISIC_0000083_nevus.jpg
+ISIC_0000084,nevus,35,Male,upper body,malignant,static/image/ISIC_0000084_nevus.jpg
+ISIC_0000085,nevus,35,Male,upper body,malignant,static/image/ISIC_0000085_nevus.jpg
+ISIC_0000086,nevus,35,Male,upper body,malignant,static/image/ISIC_0000086_nevus.jpg
+ISIC_0000087,nevus,35,Male,upper body,malignant,static/image/ISIC_0000087_nevus.jpg
+ISIC_0000088,nevus,35,Male,upper body,malignant,static/image/ISIC_0000088_nevus.jpg
+ISIC_0000089,nevus,35,Male,upper body,malignant,static/image/ISIC_0000089_nevus.jpg
+ISIC_0000091,nevus,35,Male,upper body,malignant,static/image/ISIC_0000091_nevus.jpg
+ISIC_0000092,nevus,35,Male,upper body,malignant,static/image/ISIC_0000092_nevus.jpg
+ISIC_0000093,nevus,35,Male,upper body,malignant,static/image/ISIC_0000093_nevus.jpg
+ISIC_0000094,nevus,35,Male,upper body,malignant,static/image/ISIC_0000094_nevus.jpg
+ISIC_0000095,nevus,35,Male,upper body,malignant,static/image/ISIC_0000095_nevus.jpg
+ISIC_0000096,nevus,35,Male,upper body,malignant,static/image/ISIC_0000096_nevus.jpg
+ISIC_0000097,nevus,35,Male,upper body,malignant,static/image/ISIC_0000097_nevus.jpg
+ISIC_0000099,nevus,35,Male,upper body,malignant,static/image/ISIC_0000099_nevus.jpg
+ISIC_0000143,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000143_melanoma.jpg
+ISIC_0000144,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000144_melanoma.jpg
+ISIC_0000145,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000145_melanoma.jpg
+ISIC_0000146,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000146_melanoma.jpg
+ISIC_0000149,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000149_melanoma.jpg
+ISIC_0000151,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000151_melanoma.jpg
+ISIC_0000152,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000152_melanoma.jpg
+ISIC_0000153,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000153_melanoma.jpg
+ISIC_0000154,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000154_melanoma.jpg
+ISIC_0000155,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000155_melanoma.jpg
+ISIC_0000156,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000156_melanoma.jpg
+ISIC_0000157,melanoma,60,male,upper extremity,malignant,static/image/ISIC_0000157_melanoma.jpg
+ISIC_0000158,melanoma,30,female,upper extremity,malignant,static/image/ISIC_0000158_melanoma.jpg
+ISIC_0000159,melanoma,15,female,upper extremity,malignant,static/image/ISIC_0000159_melanoma.jpg
+ISIC_0000160,melanoma,55,male,lateral torso,malignant,static/image/ISIC_0000160_melanoma.jpg
+ISIC_0000161,melanoma,45,male,anterior torso,malignant,static/image/ISIC_0000161_melanoma.jpg
+ISIC_0000162,melanoma,40,male,anterior torso,malignant,static/image/ISIC_0000162_melanoma.jpg
+ISIC_0000163,melanoma,60,male,upper extremity,malignant,static/image/ISIC_0000163_melanoma.jpg
+ISIC_0000164,melanoma,60,male,upper extremity,malignant,static/image/ISIC_0000164_melanoma.jpg
+ISIC_0000165,melanoma,15,male,upper extremity,malignant,static/image/ISIC_0000165_melanoma.jpg
+ISIC_0000166,melanoma,30,female,upper extremity,malignant,static/image/ISIC_0000166_melanoma.jpg
+ISIC_0000167,melanoma,40,male,posterior torso,malignant,static/image/ISIC_0000167_melanoma.jpg
+ISIC_0000168,melanoma,70,male,upper extremity,malignant,static/image/ISIC_0000168_melanoma.jpg
+ISIC_0000169,melanoma,70,male,upper extremity,malignant,static/image/ISIC_0000169_melanoma.jpg
+ISIC_0000170,melanoma,50,male,posterior torso,malignant,static/image/ISIC_0000170_melanoma.jpg
+ISIC_0000171,melanoma,45,male,posterior torso,malignant,static/image/ISIC_0000171_melanoma.jpg
+ISIC_0000172,melanoma,35,female,posterior torso,malignant,static/image/ISIC_0000172_melanoma.jpg
+ISIC_0000173,melanoma,65,male,upper extremity,malignant,static/image/ISIC_0000173_melanoma.jpg
+ISIC_0000174,melanoma,50,female,upper extremity,malignant,static/image/ISIC_0000174_melanoma.jpg
+ISIC_0000175,melanoma,35,female,upper extremity,malignant,static/image/ISIC_0000175_melanoma.jpg
+ISIC_0000176,melanoma,40,female,lower extremity,malignant,static/image/ISIC_0000176_melanoma.jpg
+ISIC_0000219,nevus,35,male,lower extremity,malignant,static/image/ISIC_0000219_nevus.jpg
+ISIC_0000220,nevus,30,female,lower extremity,malignant,static/image/ISIC_0000220_nevus.jpg
+ISIC_0000221,nevus,30,female,upper extremity,malignant,static/image/ISIC_0000221_nevus.jpg
+ISIC_0000222,nevus,25,female,lower extremity,malignant,static/image/ISIC_0000222_nevus.jpg
+ISIC_0000223,nevus,45,female,anterior torso,malignant,static/image/ISIC_0000223_nevus.jpg
+ISIC_0000224,nevus,20,female,anterior torso,malignant,static/image/ISIC_0000224_nevus.jpg
+ISIC_0000225,nevus,35,female,anterior torso,malignant,static/image/ISIC_0000225_nevus.jpg
+ISIC_0000226,nevus,70,male,posterior torso,malignant,static/image/ISIC_0000226_nevus.jpg
+ISIC_0000227,nevus,40,female,lower extremity,malignant,static/image/ISIC_0000227_nevus.jpg
+ISIC_0000228,nevus,30,female,anterior torso,malignant,static/image/ISIC_0000228_nevus.jpg
+ISIC_0000229,nevus,50,male,anterior torso,malignant,static/image/ISIC_0000229_nevus.jpg
+ISIC_0000230,nevus,20,female,anterior torso,malignant,static/image/ISIC_0000230_nevus.jpg
+ISIC_0000231,nevus,25,female,posterior torso,malignant,static/image/ISIC_0000231_nevus.jpg
+ISIC_0000232,nevus,75,male,upper extremity,malignant,static/image/ISIC_0000232_nevus.jpg
+ISIC_0000233,nevus,60,female,anterior torso,malignant,static/image/ISIC_0000233_nevus.jpg
+ISIC_0000234,nevus,20,male,anterior torso,malignant,static/image/ISIC_0000234_nevus.jpg
+ISIC_0000235,nevus,10,female,lower extremity,malignant,static/image/ISIC_0000235_nevus.jpg
+ISIC_0000236,nevus,30,male,lower extremity,malignant,static/image/ISIC_0000236_nevus.jpg
+ISIC_0000237,nevus,70,male,posterior torso,malignant,static/image/ISIC_0000237_nevus.jpg
+ISIC_0000238,nevus,60,male,lower extremity,malignant,static/image/ISIC_0000238_nevus.jpg
+ISIC_0000239,nevus,5,female,lower extremity,malignant,static/image/ISIC_0000239_nevus.jpg
+ISIC_0000240,nevus,35,female,posterior torso,malignant,static/image/ISIC_0000240_nevus.jpg
+ISIC_0000241,nevus,25,male,posterior torso,malignant,static/image/ISIC_0000241_nevus.jpg
+ISIC_0000243,nevus,65,male,posterior torso,malignant,static/image/ISIC_0000243_nevus.jpg
+ISIC_0000244,nevus,40,male,anterior torso,malignant,static/image/ISIC_0000244_nevus.jpg
+ISIC_0000245,nevus,70,male,posterior torso,malignant,static/image/ISIC_0000245_nevus.jpg
+ISIC_0000246,nevus,25,female,lower extremity,malignant,static/image/ISIC_0000246_nevus.jpg
+ISIC_0000248,nevus,35,male,upper extremity,malignant,static/image/ISIC_0000248_nevus.jpg
+ISIC_0000250,nevus,35,male,anterior torso,malignant,static/image/ISIC_0000250_nevus.jpg
+ISIC_0000256,nevus,65,male,posterior torso,malignant,static/image/ISIC_0000256_nevus.jpg
+ISIC_0000258,nevus,70,male,posterior torso,malignant,static/image/ISIC_0000258_nevus.jpg
+ISIC_0000259,nevus,45,female,anterior torso,malignant,static/image/ISIC_0000259_nevus.jpg
+ISIC_0000260,nevus,10,male,posterior torso,malignant,static/image/ISIC_0000260_nevus.jpg
+ISIC_0000261,nevus,30,female,upper extremity,malignant,static/image/ISIC_0000261_nevus.jpg
+ISIC_0000262,nevus,25,female,anterior torso,malignant,static/image/ISIC_0000262_nevus.jpg
+ISIC_0000263,nevus,25,female,posterior torso,malignant,static/image/ISIC_0000263_nevus.jpg
+ISIC_0000264,nevus,25,female,lower extremity,malignant,static/image/ISIC_0000264_nevus.jpg
+ISIC_0000265,nevus,25,female,upper extremity,malignant,static/image/ISIC_0000265_nevus.jpg
+ISIC_0000266,nevus,30,female,anterior torso,malignant,static/image/ISIC_0000266_nevus.jpg
+ISIC_0000267,nevus,35,female,anterior torso,malignant,static/image/ISIC_0000267_nevus.jpg
+ISIC_0000268,nevus,45,female,posterior torso,malignant,static/image/ISIC_0000268_nevus.jpg
+ISIC_0000270,nevus,30,female,upper extremity,malignant,static/image/ISIC_0000270_nevus.jpg
+ISIC_0000271,nevus,20,male,upper extremity,malignant,static/image/ISIC_0000271_nevus.jpg
+ISIC_0000272,nevus,45,male,anterior torso,malignant,static/image/ISIC_0000272_nevus.jpg
+ISIC_0000273,nevus,30,female,anterior torso,malignant,static/image/ISIC_0000273_nevus.jpg
+ISIC_0000278,melanoma,75,female,head/neck,malignant,static/image/ISIC_0000278_melanoma.jpg
+ISIC_0000279,melanoma,80,male,lower extremity,malignant,static/image/ISIC_0000279_melanoma.jpg
+ISIC_0000280,melanoma,70,male,posterior torso,malignant,static/image/ISIC_0000280_melanoma.jpg
+ISIC_0000285,melanoma,60,male,lateral torso,malignant,static/image/ISIC_0000285_melanoma.jpg
+ISIC_0000288,melanoma,70,female,upper extremity,malignant,static/image/ISIC_0000288_melanoma.jpg
+ISIC_0000289,melanoma,75,male,head/neck,malignant,static/image/ISIC_0000289_melanoma.jpg
+ISIC_0000291,melanoma,55,female,head/neck,malignant,static/image/ISIC_0000291_melanoma.jpg
+ISIC_0000292,melanoma,85,female,head/neck,malignant,static/image/ISIC_0000292_melanoma.jpg
+ISIC_0000293,melanoma,70,male,lower extremity,malignant,static/image/ISIC_0000293_melanoma.jpg
+ISIC_0000294,melanoma,80,male,posterior torso,malignant,static/image/ISIC_0000294_melanoma.jpg
+ISIC_0000295,melanoma,85,female,upper extremity,malignant,static/image/ISIC_0000295_melanoma.jpg
+ISIC_0000296,melanoma,50,female,posterior torso,malignant,static/image/ISIC_0000296_melanoma.jpg
+ISIC_0000297,melanoma,35,female,anterior torso,malignant,static/image/ISIC_0000297_melanoma.jpg
+ISIC_0000298,melanoma,50,male,lower extremity,malignant,static/image/ISIC_0000298_melanoma.jpg
+ISIC_0000299,melanoma,75,male,head/neck,malignant,static/image/ISIC_0000299_melanoma.jpg
+ISIC_0000300,melanoma,60,female,lower extremity,malignant,static/image/ISIC_0000300_melanoma.jpg
+ISIC_0000301,melanoma,60,male,posterior torso,malignant,static/image/ISIC_0000301_melanoma.jpg
+ISIC_0000302,melanoma,65,female,posterior torso,malignant,static/image/ISIC_0000302_melanoma.jpg
+ISIC_0000303,melanoma,80,male,upper extremity,malignant,static/image/ISIC_0000303_melanoma.jpg
+ISIC_0000304,melanoma,45,male,posterior torso,malignant,static/image/ISIC_0000304_melanoma.jpg
+ISIC_0000305,melanoma,80,female,lower extremity,malignant,static/image/ISIC_0000305_melanoma.jpg
+ISIC_0000306,melanoma,50,male,upper extremity,malignant,static/image/ISIC_0000306_melanoma.jpg
+ISIC_0000307,melanoma,65,female,lower extremity,malignant,static/image/ISIC_0000307_melanoma.jpg
+ISIC_0000308,melanoma,50,female,lower extremity,malignant,static/image/ISIC_0000308_melanoma.jpg
+ISIC_0000309,melanoma,65,male,anterior torso,malignant,static/image/ISIC_0000309_melanoma.jpg
+ISIC_0000310,melanoma,85,female,lower extremity,malignant,static/image/ISIC_0000310_melanoma.jpg
+ISIC_0000311,melanoma,60,female,lower extremity,malignant,static/image/ISIC_0000311_melanoma.jpg
+ISIC_0000312,melanoma,40,female,posterior torso,malignant,static/image/ISIC_0000312_melanoma.jpg
+ISIC_0000313,melanoma,60,male,anterior torso,malignant,static/image/ISIC_0000313_melanoma.jpg
+ISIC_0000314,melanoma,35,female,lower extremity,malignant,static/image/ISIC_0000314_melanoma.jpg
+ISIC_0000315,nevus,30,female,anterior torso,malignant,static/image/ISIC_0000315_nevus.jpg
+ISIC_0000390,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000390_melanoma.jpg
+ISIC_0000393,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000393_melanoma.jpg
+ISIC_0000394,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000394_melanoma.jpg
+ISIC_0000395,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000395_melanoma.jpg
+ISIC_0000398,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000398_melanoma.jpg
+ISIC_0000399,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000399_melanoma.jpg
+ISIC_0000400,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000400_melanoma.jpg
+ISIC_0000401,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000401_melanoma.jpg
+ISIC_0000402,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000402_melanoma.jpg
+ISIC_0000404,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000404_melanoma.jpg
+ISIC_0000405,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000405_melanoma.jpg
+ISIC_0000406,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000406_melanoma.jpg
+ISIC_0000410,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000410_melanoma.jpg
+ISIC_0000411,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000411_melanoma.jpg
+ISIC_0000412,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000412_melanoma.jpg
+ISIC_0000413,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000413_melanoma.jpg
+ISIC_0000414,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000414_melanoma.jpg
+ISIC_0000415,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000415_melanoma.jpg
+ISIC_0000417,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000417_melanoma.jpg
+ISIC_0000420,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000420_melanoma.jpg
+ISIC_0000428,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000428_melanoma.jpg
+ISIC_0000432,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000432_melanoma.jpg
+ISIC_0000434,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000434_melanoma.jpg
+ISIC_0000440,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000440_melanoma.jpg
+ISIC_0000441,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000441_melanoma.jpg
+ISIC_0000444,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000444_melanoma.jpg
+ISIC_0000445,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000445_melanoma.jpg
+ISIC_0000446,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000446_melanoma.jpg
+ISIC_0000450,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000450_melanoma.jpg
+ISIC_0000459,melanoma,35,Male,anterior torso,malignant,static/image/ISIC_0000459_melanoma.jpg
+ISIC_0000462,melanoma,35,Male,posterior torso,malignant,static/image/ISIC_0000462_melanoma.jpg
+ISIC_0000463,melanoma,35,Male,upper body,malignant,static/image/ISIC_0000463_melanoma.jpg
+ISIC_0000466,melanoma,35,Male,posterior torso,malignant,static/image/ISIC_0000466_melanoma.jpg
+ISIC_0010812,melanoma,75,female,lower extremity,malignant,static/image/ISIC_0010812_melanoma.jpg
+ISIC_0010834,melanoma,55,male,lower extremity,malignant,static/image/ISIC_0010834_melanoma.jpg
+ISIC_0010852,melanoma,30,female,lower extremity,malignant,static/image/ISIC_0010852_melanoma.jpg
+ISIC_0010860,melanoma,50,male,posterior torso,malignant,static/image/ISIC_0010860_melanoma.jpg
+ISIC_0010862,melanoma,80,female,lower extremity,malignant,static/image/ISIC_0010862_melanoma.jpg
+ISIC_0010863,melanoma,65,male,posterior torso,malignant,static/image/ISIC_0010863_melanoma.jpg
+ISIC_0010866,melanoma,85,female,head/neck,malignant,static/image/ISIC_0010866_melanoma.jpg
+ISIC_0010872,melanoma,80,male,head/neck,malignant,static/image/ISIC_0010872_melanoma.jpg
+ISIC_0010876,melanoma,60,male,head/neck,malignant,static/image/ISIC_0010876_melanoma.jpg
+ISIC_0010878,melanoma,60,male,upper extremity,malignant,static/image/ISIC_0010878_melanoma.jpg
+ISIC_0010883,melanoma,85,male,posterior torso,malignant,static/image/ISIC_0010883_melanoma.jpg
+ISIC_0010890,melanoma,70,male,head/neck,malignant,static/image/ISIC_0010890_melanoma.jpg
+ISIC_0010898,melanoma,65,male,head/neck,malignant,static/image/ISIC_0010898_melanoma.jpg
+ISIC_0010900,melanoma,60,male,upper extremity,malignant,static/image/ISIC_0010900_melanoma.jpg
+ISIC_0010909,melanoma,40,male,posterior torso,malignant,static/image/ISIC_0010909_melanoma.jpg
+ISIC_0010912,melanoma,85,female,upper extremity,malignant,static/image/ISIC_0010912_melanoma.jpg
+ISIC_0010917,melanoma,85,female,posterior torso,malignant,static/image/ISIC_0010917_melanoma.jpg
+ISIC_0010923,melanoma,80,female,head/neck,malignant,static/image/ISIC_0010923_melanoma.jpg
+ISIC_0010925,melanoma,65,male,upper extremity,malignant,static/image/ISIC_0010925_melanoma.jpg
+ISIC_0010934,melanoma,65,female,head/neck,malignant,static/image/ISIC_0010934_melanoma.jpg
+ISIC_0010938,melanoma,85,male,upper extremity,malignant,static/image/ISIC_0010938_melanoma.jpg
+ISIC_0010942,melanoma,75,male,upper extremity,malignant,static/image/ISIC_0010942_melanoma.jpg
+ISIC_0010965,melanoma,65,female,upper extremity,malignant,static/image/ISIC_0010965_melanoma.jpg
+ISIC_0010971,melanoma,60,female,upper extremity,malignant,static/image/ISIC_0010971_melanoma.jpg
+ISIC_0010978,melanoma,60,female,posterior torso,malignant,static/image/ISIC_0010978_melanoma.jpg
+ISIC_0010979,melanoma,65,female,head/neck,malignant,static/image/ISIC_0010979_melanoma.jpg
+ISIC_0010982,melanoma,70,male,head/neck,malignant,static/image/ISIC_0010982_melanoma.jpg
+ISIC_0010990,melanoma,55,female,anterior torso,malignant,static/image/ISIC_0010990_melanoma.jpg
+ISIC_0010993,melanoma,55,male,head/neck,malignant,static/image/ISIC_0010993_melanoma.jpg
+ISIC_0010995,melanoma,50,female,lower extremity,malignant,static/image/ISIC_0010995_melanoma.jpg
+ISIC_0011007,melanoma,55,female,head/neck,malignant,static/image/ISIC_0011007_melanoma.jpg
+ISIC_0011012,melanoma,30,female,upper extremity,malignant,static/image/ISIC_0011012_melanoma.jpg
+ISIC_0011013,melanoma,40,male,upper extremity,malignant,static/image/ISIC_0011013_melanoma.jpg
+ISIC_0011030,melanoma,65,male,upper extremity,malignant,static/image/ISIC_0011030_melanoma.jpg
+ISIC_0011031,melanoma,65,male,upper extremity,malignant,static/image/ISIC_0011031_melanoma.jpg
+ISIC_0011032,melanoma,70,male,upper extremity,malignant,static/image/ISIC_0011032_melanoma.jpg
+ISIC_0011039,melanoma,65,male,head/neck,malignant,static/image/ISIC_0011039_melanoma.jpg
+ISIC_0011040,melanoma,65,male,upper extremity,malignant,static/image/ISIC_0011040_melanoma.jpg
+ISIC_0011042,melanoma,70,male,head/neck,malignant,static/image/ISIC_0011042_melanoma.jpg
+ISIC_0011043,melanoma,70,male,head/neck,malignant,static/image/ISIC_0011043_melanoma.jpg
+ISIC_0011045,melanoma,70,male,upper extremity,malignant,static/image/ISIC_0011045_melanoma.jpg
+ISIC_0011052,melanoma,85,male,head/neck,malignant,static/image/ISIC_0011052_melanoma.jpg
+ISIC_0011056,melanoma,85,male,upper extremity,malignant,static/image/ISIC_0011056_melanoma.jpg
+ISIC_0011057,melanoma,45,female,lower extremity,malignant,static/image/ISIC_0011057_melanoma.jpg
+ISIC_0011077,melanoma,65,male,head/neck,malignant,static/image/ISIC_0011077_melanoma.jpg
+ISIC_0011094,melanoma,80,male,upper extremity,malignant,static/image/ISIC_0011094_melanoma.jpg
+ISIC_0011095,melanoma,80,male,lower extremity,malignant,static/image/ISIC_0011095_melanoma.jpg
+ISIC_0011099,melanoma,55,male,posterior torso,malignant,static/image/ISIC_0011099_melanoma.jpg
+ISIC_0011112,melanoma,50,male,anterior torso,malignant,static/image/ISIC_0011112_melanoma.jpg
+ISIC_0011118,melanoma,75,male,anterior torso,malignant,static/image/ISIC_0011118_melanoma.jpg
+ISIC_0011121,melanoma,85,male,head/neck,malignant,static/image/ISIC_0011121_melanoma.jpg
+ISIC_0011125,melanoma,70,male,anterior torso,malignant,static/image/ISIC_0011125_melanoma.jpg
+ISIC_0011126,melanoma,45,male,upper extremity,malignant,static/image/ISIC_0011126_melanoma.jpg
+ISIC_0011128,melanoma,70,male,head/neck,malignant,static/image/ISIC_0011128_melanoma.jpg
+ISIC_0011130,melanoma,75,male,posterior torso,malignant,static/image/ISIC_0011130_melanoma.jpg
+ISIC_0011132,melanoma,75,male,upper extremity,malignant,static/image/ISIC_0011132_melanoma.jpg
+ISIC_0011135,melanoma,75,female,upper extremity,malignant,static/image/ISIC_0011135_melanoma.jpg
+ISIC_0011136,melanoma,60,male,head/neck,malignant,static/image/ISIC_0011136_melanoma.jpg
+ISIC_0011137,melanoma,65,male,posterior torso,malignant,static/image/ISIC_0011137_melanoma.jpg
+ISIC_0011138,melanoma,70,male,head/neck,malignant,static/image/ISIC_0011138_melanoma.jpg
+ISIC_0011139,melanoma,70,male,head/neck,malignant,static/image/ISIC_0011139_melanoma.jpg
+ISIC_0011140,melanoma,60,female,upper extremity,malignant,static/image/ISIC_0011140_melanoma.jpg
+ISIC_0011151,melanoma,80,female,lower extremity,malignant,static/image/ISIC_0011151_melanoma.jpg
+ISIC_0011158,melanoma,60,male,upper extremity,malignant,static/image/ISIC_0011158_melanoma.jpg
+ISIC_0011161,melanoma,75,male,posterior torso,malignant,static/image/ISIC_0011161_melanoma.jpg
+ISIC_0011163,melanoma,65,female,posterior torso,malignant,static/image/ISIC_0011163_melanoma.jpg
+ISIC_0011166,melanoma,45,female,anterior torso,malignant,static/image/ISIC_0011166_melanoma.jpg
+ISIC_0011169,melanoma,45,male,posterior torso,malignant,static/image/ISIC_0011169_melanoma.jpg
+ISIC_0011174,melanoma,70,male,posterior torso,malignant,static/image/ISIC_0011174_melanoma.jpg
+ISIC_0011176,melanoma,55,female,lower extremity,malignant,static/image/ISIC_0011176_melanoma.jpg
+ISIC_0011178,melanoma,85,male,head/neck,malignant,static/image/ISIC_0011178_melanoma.jpg
+ISIC_0011181,melanoma,70,female,head/neck,malignant,static/image/ISIC_0011181_melanoma.jpg
+ISIC_0011185,melanoma,70,female,upper extremity,malignant,static/image/ISIC_0011185_melanoma.jpg
+ISIC_0011187,melanoma,65,male,head/neck,malignant,static/image/ISIC_0011187_melanoma.jpg
+ISIC_0011193,melanoma,45,female,head/neck,malignant,static/image/ISIC_0011193_melanoma.jpg
+ISIC_0024435,pigmented benign keratosis,55,male,head/neck,benign,static/image/ISIC_0024435_pigmented benign keratosis.jpg
+ISIC_0024445,pigmented benign keratosis,55,male,lower extremity,benign,static/image/ISIC_0024445_pigmented benign keratosis.jpg
+ISIC_0024453,pigmented benign keratosis,65,female,head/neck,benign,static/image/ISIC_0024453_pigmented benign keratosis.jpg
+ISIC_0024475,vascular lesion,35,male,head/neck,benign,static/image/ISIC_0024475_vascular lesion.jpg
+ISIC_0024477,pigmented benign keratosis,60,male,posterior torso,benign,static/image/ISIC_0024477_pigmented benign keratosis.jpg
+ISIC_0024489,pigmented benign keratosis,75,female,head/neck,benign,static/image/ISIC_0024489_pigmented benign keratosis.jpg
+ISIC_0024490,pigmented benign keratosis,75,male,head/neck,benign,static/image/ISIC_0024490_pigmented benign keratosis.jpg
+ISIC_0024494,pigmented benign keratosis,55,female,anterior torso,benign,static/image/ISIC_0024494_pigmented benign keratosis.jpg
+ISIC_0024495,pigmented benign keratosis,45,female,lower extremity,benign,static/image/ISIC_0024495_pigmented benign keratosis.jpg
+ISIC_0024498,pigmented benign keratosis,70,male,head/neck,benign,static/image/ISIC_0024498_pigmented benign keratosis.jpg
+ISIC_0024505,pigmented benign keratosis,40,female,head/neck,benign,static/image/ISIC_0024505_pigmented benign keratosis.jpg
+ISIC_0024547,pigmented benign keratosis,65,male,posterior torso,benign,static/image/ISIC_0024547_pigmented benign keratosis.jpg
+ISIC_0024564,basal cell carcinoma,65,male,upper extremity,benign,static/image/ISIC_0024564_basal cell carcinoma.jpg
+ISIC_0024572,basal cell carcinoma,75,female,posterior torso,benign,static/image/ISIC_0024572_basal cell carcinoma.jpg
+ISIC_0024581,pigmented benign keratosis,40,male,lower extremity,benign,static/image/ISIC_0024581_pigmented benign keratosis.jpg
+ISIC_0024582,basal cell carcinoma,75,male,posterior torso,benign,static/image/ISIC_0024582_basal cell carcinoma.jpg
+ISIC_0024590,basal cell carcinoma,80,male,posterior torso,benign,static/image/ISIC_0024590_basal cell carcinoma.jpg
+ISIC_0024592,pigmented benign keratosis,40,female,anterior torso,benign,static/image/ISIC_0024592_pigmented benign keratosis.jpg
+ISIC_0024602,pigmented benign keratosis,75,female,head/neck,benign,static/image/ISIC_0024602_pigmented benign keratosis.jpg
+ISIC_0024612,pigmented benign keratosis,85,male,posterior torso,benign,static/image/ISIC_0024612_pigmented benign keratosis.jpg
+ISIC_0024623,pigmented benign keratosis,85,female,anterior torso,benign,static/image/ISIC_0024623_pigmented benign keratosis.jpg
+ISIC_0024626,pigmented benign keratosis,70,male,posterior torso,benign,static/image/ISIC_0024626_pigmented benign keratosis.jpg
+ISIC_0024632,basal cell carcinoma,70,female,upper extremity,benign,static/image/ISIC_0024632_basal cell carcinoma.jpg
+ISIC_0024634,basal cell carcinoma,80,female,posterior torso,benign,static/image/ISIC_0024634_basal cell carcinoma.jpg
+ISIC_0024635,pigmented benign keratosis,60,female,head/neck,benign,static/image/ISIC_0024635_pigmented benign keratosis.jpg
+ISIC_0024643,pigmented benign keratosis,35,male,anterior torso,benign,static/image/ISIC_0024643_pigmented benign keratosis.jpg
+ISIC_0024662,vascular lesion,75,male,upper body,benign,static/image/ISIC_0024662_vascular lesion.jpg
+ISIC_0024665,basal cell carcinoma,65,female,anterior torso,benign,static/image/ISIC_0024665_basal cell carcinoma.jpg
+ISIC_0024666,basal cell carcinoma,65,male,posterior torso,benign,static/image/ISIC_0024666_basal cell carcinoma.jpg
+ISIC_0024669,vascular lesion,25,female,anterior torso,benign,static/image/ISIC_0024669_vascular lesion.jpg
+ISIC_0024672,pigmented benign keratosis,65,male,posterior torso,benign,static/image/ISIC_0024672_pigmented benign keratosis.jpg
+ISIC_0024676,pigmented benign keratosis,75,female,head/neck,benign,static/image/ISIC_0024676_pigmented benign keratosis.jpg
+ISIC_0024696,pigmented benign keratosis,75,male,upper extremity,benign,static/image/ISIC_0024696_pigmented benign keratosis.jpg
+ISIC_0024705,pigmented benign keratosis,45,female,head/neck,benign,static/image/ISIC_0024705_pigmented benign keratosis.jpg
+ISIC_0024706,vascular lesion,50,male,upper body,benign,static/image/ISIC_0024706_vascular lesion.jpg
+ISIC_0024708,pigmented benign keratosis,80,male,posterior torso,benign,static/image/ISIC_0024708_pigmented benign keratosis.jpg
+ISIC_0024709,pigmented benign keratosis,65,female,upper extremity,benign,static/image/ISIC_0024709_pigmented benign keratosis.jpg
+ISIC_0024711,pigmented benign keratosis,75,male,anterior torso,benign,static/image/ISIC_0024711_pigmented benign keratosis.jpg
+ISIC_0024726,pigmented benign keratosis,65,male,posterior torso,benign,static/image/ISIC_0024726_pigmented benign keratosis.jpg
+ISIC_0024740,pigmented benign keratosis,55,male,posterior torso,benign,static/image/ISIC_0024740_pigmented benign keratosis.jpg
+ISIC_0024741,pigmented benign keratosis,75,male,lower extremity,benign,static/image/ISIC_0024741_pigmented benign keratosis.jpg
+ISIC_0024743,basal cell carcinoma,65,female,lower extremity,benign,static/image/ISIC_0024743_basal cell carcinoma.jpg
+ISIC_0024747,vascular lesion,70,female,head/neck,benign,static/image/ISIC_0024747_vascular lesion.jpg
+ISIC_0024748,pigmented benign keratosis,45,male,anterior torso,benign,static/image/ISIC_0024748_pigmented benign keratosis.jpg
+ISIC_0024758,pigmented benign keratosis,70,female,head/neck,benign,static/image/ISIC_0024758_pigmented benign keratosis.jpg
+ISIC_0024760,pigmented benign keratosis,50,male,upper extremity,benign,static/image/ISIC_0024760_pigmented benign keratosis.jpg
+ISIC_0024761,pigmented benign keratosis,65,male,head/neck,benign,static/image/ISIC_0024761_pigmented benign keratosis.jpg
+ISIC_0024770,pigmented benign keratosis,50,male,head/neck,benign,static/image/ISIC_0024770_pigmented benign keratosis.jpg
+ISIC_0024773,pigmented benign keratosis,70,male,lower extremity,benign,static/image/ISIC_0024773_pigmented benign keratosis.jpg
+ISIC_0024774,pigmented benign keratosis,35,female,head/neck,benign,static/image/ISIC_0024774_pigmented benign keratosis.jpg
+ISIC_0024782,pigmented benign keratosis,65,female,anterior torso,benign,static/image/ISIC_0024782_pigmented benign keratosis.jpg
+ISIC_0024786,pigmented benign keratosis,70,male,lower extremity,benign,static/image/ISIC_0024786_pigmented benign keratosis.jpg
+ISIC_0024787,basal cell carcinoma,45,male,upper extremity,benign,static/image/ISIC_0024787_basal cell carcinoma.jpg
+ISIC_0024795,basal cell carcinoma,55,male,posterior torso,benign,static/image/ISIC_0024795_basal cell carcinoma.jpg
+ISIC_0024799,basal cell carcinoma,45,male,anterior torso,benign,static/image/ISIC_0024799_basal cell carcinoma.jpg
+ISIC_0024814,pigmented benign keratosis,50,female,head/neck,benign,static/image/ISIC_0024814_pigmented benign keratosis.jpg
+ISIC_0024825,pigmented benign keratosis,70,male,lower extremity,benign,static/image/ISIC_0024825_pigmented benign keratosis.jpg
+ISIC_0024829,basal cell carcinoma,75,male,head/neck,benign,static/image/ISIC_0024829_basal cell carcinoma.jpg
+ISIC_0024833,basal cell carcinoma,65,male,posterior torso,benign,static/image/ISIC_0024833_basal cell carcinoma.jpg
+ISIC_0024839,pigmented benign keratosis,50,male,head/neck,benign,static/image/ISIC_0024839_pigmented benign keratosis.jpg
+ISIC_0024848,basal cell carcinoma,80,male,posterior torso,benign,static/image/ISIC_0024848_basal cell carcinoma.jpg
+ISIC_0024850,pigmented benign keratosis,55,female,head/neck,benign,static/image/ISIC_0024850_pigmented benign keratosis.jpg
+ISIC_0024851,pigmented benign keratosis,85,male,posterior torso,benign,static/image/ISIC_0024851_pigmented benign keratosis.jpg
+ISIC_0024867,vascular lesion,75,male,upper body,benign,static/image/ISIC_0024867_vascular lesion.jpg
+ISIC_0024871,pigmented benign keratosis,65,male,head/neck,benign,static/image/ISIC_0024871_pigmented benign keratosis.jpg
+ISIC_0024877,pigmented benign keratosis,50,male,head/neck,benign,static/image/ISIC_0024877_pigmented benign keratosis.jpg
+ISIC_0024880,pigmented benign keratosis,40,male,anterior torso,benign,static/image/ISIC_0024880_pigmented benign keratosis.jpg
+ISIC_0024881,pigmented benign keratosis,65,male,posterior torso,benign,static/image/ISIC_0024881_pigmented benign keratosis.jpg
+ISIC_0024883,pigmented benign keratosis,35,female,lower extremity,benign,static/image/ISIC_0024883_pigmented benign keratosis.jpg
+ISIC_0024885,basal cell carcinoma,50,female,posterior torso,benign,static/image/ISIC_0024885_basal cell carcinoma.jpg
+ISIC_0024890,pigmented benign keratosis,60,female,upper extremity,benign,static/image/ISIC_0024890_pigmented benign keratosis.jpg
+ISIC_0024897,basal cell carcinoma,75,female,posterior torso,benign,static/image/ISIC_0024897_basal cell carcinoma.jpg
+ISIC_0024904,vascular lesion,75,male,upper extremity,benign,static/image/ISIC_0024904_vascular lesion.jpg
+ISIC_0024909,pigmented benign keratosis,85,female,head/neck,benign,static/image/ISIC_0024909_pigmented benign keratosis.jpg
+ISIC_0024910,pigmented benign keratosis,70,female,head/neck,benign,static/image/ISIC_0024910_pigmented benign keratosis.jpg
+ISIC_0024915,pigmented benign keratosis,55,female,head/neck,benign,static/image/ISIC_0024915_pigmented benign keratosis.jpg
+ISIC_0024931,basal cell carcinoma,85,male,upper extremity,benign,static/image/ISIC_0024931_basal cell carcinoma.jpg
+ISIC_0024943,pigmented benign keratosis,75,female,head/neck,benign,static/image/ISIC_0024943_pigmented benign keratosis.jpg
+ISIC_0024946,squamous cell carcinoma,45,male,posterior torso,benign,static/image/ISIC_0024946_squamous cell carcinoma.jpg
+ISIC_0024947,pigmented benign keratosis,40,male,head/neck,benign,static/image/ISIC_0024947_pigmented benign keratosis.jpg
+ISIC_0024949,basal cell carcinoma,75,male,upper extremity,benign,static/image/ISIC_0024949_basal cell carcinoma.jpg
+ISIC_0024970,pigmented benign keratosis,85,male,anterior torso,benign,static/image/ISIC_0024970_pigmented benign keratosis.jpg
+ISIC_0024971,pigmented benign keratosis,50,male,head/neck,benign,static/image/ISIC_0024971_pigmented benign keratosis.jpg
+ISIC_0024981,pigmented benign keratosis,80,male,head/neck,benign,static/image/ISIC_0024981_pigmented benign keratosis.jpg
+ISIC_0024982,pigmented benign keratosis,55,male,head/neck,benign,static/image/ISIC_0024982_pigmented benign keratosis.jpg
+ISIC_0024984,basal cell carcinoma,55,female,posterior torso,benign,static/image/ISIC_0024984_basal cell carcinoma.jpg
+ISIC_0024997,pigmented benign keratosis,60,male,posterior torso,benign,static/image/ISIC_0024997_pigmented benign keratosis.jpg
+ISIC_0025005,pigmented benign keratosis,70,male,head/neck,benign,static/image/ISIC_0025005_pigmented benign keratosis.jpg
+ISIC_0025016,pigmented benign keratosis,75,male,posterior torso,benign,static/image/ISIC_0025016_pigmented benign keratosis.jpg
+ISIC_0025019,basal cell carcinoma,65,male,anterior torso,benign,static/image/ISIC_0025019_basal cell carcinoma.jpg
+ISIC_0025029,squamous cell carcinoma,75,female,upper extremity,benign,static/image/ISIC_0025029_squamous cell carcinoma.jpg
+ISIC_0025030,pigmented benign keratosis,80,male,head/neck,benign,static/image/ISIC_0025030_pigmented benign keratosis.jpg
+ISIC_0025032,pigmented benign keratosis,75,female,posterior torso,benign,static/image/ISIC_0025032_pigmented benign keratosis.jpg
+ISIC_0025033,pigmented benign keratosis,60,male,posterior torso,benign,static/image/ISIC_0025033_pigmented benign keratosis.jpg
+ISIC_0025038,pigmented benign keratosis,60,female,head/neck,benign,static/image/ISIC_0025038_pigmented benign keratosis.jpg
+ISIC_0025040,pigmented benign keratosis,35,female,lower extremity,benign,static/image/ISIC_0025040_pigmented benign keratosis.jpg
+ISIC_0025046,basal cell carcinoma,65,female,anterior torso,benign,static/image/ISIC_0025046_basal cell carcinoma.jpg
+ISIC_0025063,pigmented benign keratosis,85,male,head/neck,benign,static/image/ISIC_0025063_pigmented benign keratosis.jpg
+ISIC_0025064,pigmented benign keratosis,35,female,lower extremity,benign,static/image/ISIC_0025064_pigmented benign keratosis.jpg
+ISIC_0025066,pigmented benign keratosis,60,male,upper extremity,benign,static/image/ISIC_0025066_pigmented benign keratosis.jpg
+ISIC_0025068,pigmented benign keratosis,80,male,head/neck,benign,static/image/ISIC_0025068_pigmented benign keratosis.jpg
+ISIC_0025069,squamous cell carcinoma,75,male,upper extremity,benign,static/image/ISIC_0025069_squamous cell carcinoma.jpg
+ISIC_0025075,pigmented benign keratosis,60,male,upper extremity,benign,static/image/ISIC_0025075_pigmented benign keratosis.jpg
+ISIC_0025076,pigmented benign keratosis,50,male,upper extremity,benign,static/image/ISIC_0025076_pigmented benign keratosis.jpg
+ISIC_0025083,pigmented benign keratosis,55,male,posterior torso,benign,static/image/ISIC_0025083_pigmented benign keratosis.jpg
+ISIC_0025086,pigmented benign keratosis,75,female,lower extremity,benign,static/image/ISIC_0025086_pigmented benign keratosis.jpg
+ISIC_0025089,squamous cell carcinoma,65,male,head/neck,benign,static/image/ISIC_0025089_squamous cell carcinoma.jpg
+ISIC_0025099,pigmented benign keratosis,60,male,anterior torso,benign,static/image/ISIC_0025099_pigmented benign keratosis.jpg
+ISIC_0025102,basal cell carcinoma,70,male,lower extremity,benign,static/image/ISIC_0025102_basal cell carcinoma.jpg
+ISIC_0025103,pigmented benign keratosis,70,female,head/neck,benign,static/image/ISIC_0025103_pigmented benign keratosis.jpg
+ISIC_0025113,pigmented benign keratosis,70,female,lower extremity,benign,static/image/ISIC_0025113_pigmented benign keratosis.jpg
+ISIC_0025130,squamous cell carcinoma,80,female,head/neck,benign,static/image/ISIC_0025130_squamous cell carcinoma.jpg
+ISIC_0025131,pigmented benign keratosis,75,female,posterior torso,benign,static/image/ISIC_0025131_pigmented benign keratosis.jpg
+ISIC_0025136,pigmented benign keratosis,55,female,anterior torso,benign,static/image/ISIC_0025136_pigmented benign keratosis.jpg
+ISIC_0025140,pigmented benign keratosis,75,male,head/neck,benign,static/image/ISIC_0025140_pigmented benign keratosis.jpg
+ISIC_0025144,basal cell carcinoma,75,male,posterior torso,benign,static/image/ISIC_0025144_basal cell carcinoma.jpg
+ISIC_0025157,pigmented benign keratosis,45,male,head/neck,benign,static/image/ISIC_0025157_pigmented benign keratosis.jpg
+ISIC_0025178,squamous cell carcinoma,65,male,lower extremity,benign,static/image/ISIC_0025178_squamous cell carcinoma.jpg
+ISIC_0025180,pigmented benign keratosis,35,female,anterior torso,benign,static/image/ISIC_0025180_pigmented benign keratosis.jpg
+ISIC_0025182,squamous cell carcinoma,60,female,upper extremity,benign,static/image/ISIC_0025182_squamous cell carcinoma.jpg
+ISIC_0025196,squamous cell carcinoma,80,female,upper extremity,benign,static/image/ISIC_0025196_squamous cell carcinoma.jpg
+ISIC_0025197,vascular lesion,50,female,anterior torso,benign,static/image/ISIC_0025197_vascular lesion.jpg
+ISIC_0025199,pigmented benign keratosis,60,female,lower extremity,benign,static/image/ISIC_0025199_pigmented benign keratosis.jpg
+ISIC_0025209,pigmented benign keratosis,70,female,posterior torso,benign,static/image/ISIC_0025209_pigmented benign keratosis.jpg
+ISIC_0025222,pigmented benign keratosis,65,female,head/neck,benign,static/image/ISIC_0025222_pigmented benign keratosis.jpg
+ISIC_0025223,dermatofibroma,60,male,upper extremity,benign,static/image/ISIC_0025223_dermatofibroma.jpg
+ISIC_0025244,vascular lesion,45,female,upper body,benign,static/image/ISIC_0025244_vascular lesion.jpg
+ISIC_0025247,squamous cell carcinoma,70,male,lower extremity,benign,static/image/ISIC_0025247_squamous cell carcinoma.jpg
+ISIC_0025249,vascular lesion,30,female,lower extremity,benign,static/image/ISIC_0025249_vascular lesion.jpg
+ISIC_0025250,vascular lesion,30,male,head/neck,benign,static/image/ISIC_0025250_vascular lesion.jpg
+ISIC_0025260,basal cell carcinoma,70,male,posterior torso,benign,static/image/ISIC_0025260_basal cell carcinoma.jpg
+ISIC_0025264,squamous cell carcinoma,75,male,posterior torso,benign,static/image/ISIC_0025264_squamous cell carcinoma.jpg
+ISIC_0025266,basal cell carcinoma,65,female,upper extremity,benign,static/image/ISIC_0025266_basal cell carcinoma.jpg
+ISIC_0025275,pigmented benign keratosis,70,female,posterior torso,benign,static/image/ISIC_0025275_pigmented benign keratosis.jpg
+ISIC_0025276,pigmented benign keratosis,55,female,upper body,benign,static/image/ISIC_0025276_pigmented benign keratosis.jpg
+ISIC_0025285,basal cell carcinoma,75,female,upper extremity,benign,static/image/ISIC_0025285_basal cell carcinoma.jpg
+ISIC_0025286,pigmented benign keratosis,50,male,lower extremity,benign,static/image/ISIC_0025286_pigmented benign keratosis.jpg
+ISIC_0025292,pigmented benign keratosis,85,male,head/neck,benign,static/image/ISIC_0025292_pigmented benign keratosis.jpg
+ISIC_0025297,pigmented benign keratosis,75,female,head/neck,benign,static/image/ISIC_0025297_pigmented benign keratosis.jpg
+ISIC_0025299,basal cell carcinoma,70,male,posterior torso,benign,static/image/ISIC_0025299_basal cell carcinoma.jpg
+ISIC_0025301,basal cell carcinoma,70,male,posterior torso,benign,static/image/ISIC_0025301_basal cell carcinoma.jpg
+ISIC_0025302,dermatofibroma,60,female,lower extremity,benign,static/image/ISIC_0025302_dermatofibroma.jpg
+ISIC_0025312,pigmented benign keratosis,65,female,head/neck,benign,static/image/ISIC_0025312_pigmented benign keratosis.jpg
+ISIC_0025314,dermatofibroma,35,female,lower extremity,benign,static/image/ISIC_0025314_dermatofibroma.jpg
+ISIC_0025321,vascular lesion,85,male,lower extremity,benign,static/image/ISIC_0025321_vascular lesion.jpg
+ISIC_0025322,basal cell carcinoma,65,male,upper extremity,benign,static/image/ISIC_0025322_basal cell carcinoma.jpg
+ISIC_0025326,pigmented benign keratosis,50,female,upper extremity,benign,static/image/ISIC_0025326_pigmented benign keratosis.jpg
+ISIC_0025330,pigmented benign keratosis,50,female,lower extremity,benign,static/image/ISIC_0025330_pigmented benign keratosis.jpg
+ISIC_0025331,squamous cell carcinoma,80,male,head/neck,benign,static/image/ISIC_0025331_squamous cell carcinoma.jpg
+ISIC_0025337,pigmented benign keratosis,35,male,head/neck,benign,static/image/ISIC_0025337_pigmented benign keratosis.jpg
+ISIC_0025339,pigmented benign keratosis,65,male,head/neck,benign,static/image/ISIC_0025339_pigmented benign keratosis.jpg
+ISIC_0025345,pigmented benign keratosis,70,male,lower extremity,benign,static/image/ISIC_0025345_pigmented benign keratosis.jpg
+ISIC_0025350,squamous cell carcinoma,70,male,lower extremity,benign,static/image/ISIC_0025350_squamous cell carcinoma.jpg
+ISIC_0025351,pigmented benign keratosis,75,male,upper extremity,benign,static/image/ISIC_0025351_pigmented benign keratosis.jpg
+ISIC_0025358,squamous cell carcinoma,60,female,head/neck,benign,static/image/ISIC_0025358_squamous cell carcinoma.jpg
+ISIC_0025362,basal cell carcinoma,65,female,head/neck,benign,static/image/ISIC_0025362_basal cell carcinoma.jpg
+ISIC_0025373,dermatofibroma,35,female,lower extremity,benign,static/image/ISIC_0025373_dermatofibroma.jpg
+ISIC_0025383,basal cell carcinoma,40,male,posterior torso,benign,static/image/ISIC_0025383_basal cell carcinoma.jpg
+ISIC_0025411,squamous cell carcinoma,50,male,upper extremity,benign,static/image/ISIC_0025411_squamous cell carcinoma.jpg
+ISIC_0025417,basal cell carcinoma,70,male,upper extremity,benign,static/image/ISIC_0025417_basal cell carcinoma.jpg
+ISIC_0025425,vascular lesion,50,male,upper body,benign,static/image/ISIC_0025425_vascular lesion.jpg
+ISIC_0025433,basal cell carcinoma,50,male,lower extremity,benign,static/image/ISIC_0025433_basal cell carcinoma.jpg
+ISIC_0025452,vascular lesion,55,female,anterior torso,benign,static/image/ISIC_0025452_vascular lesion.jpg
+ISIC_0025467,basal cell carcinoma,65,female,head/neck,benign,static/image/ISIC_0025467_basal cell carcinoma.jpg
+ISIC_0025471,squamous cell carcinoma,85,male,anterior torso,benign,static/image/ISIC_0025471_squamous cell carcinoma.jpg
+ISIC_0025509,basal cell carcinoma,55,male,posterior torso,benign,static/image/ISIC_0025509_basal cell carcinoma.jpg
+ISIC_0025513,basal cell carcinoma,40,male,posterior torso,benign,static/image/ISIC_0025513_basal cell carcinoma.jpg
+ISIC_0025530,basal cell carcinoma,80,female,lower extremity,benign,static/image/ISIC_0025530_basal cell carcinoma.jpg
+ISIC_0025539,squamous cell carcinoma,75,male,lower extremity,benign,static/image/ISIC_0025539_squamous cell carcinoma.jpg
+ISIC_0025557,basal cell carcinoma,80,female,anterior torso,benign,static/image/ISIC_0025557_basal cell carcinoma.jpg
+ISIC_0025576,basal cell carcinoma,55,male,posterior torso,benign,static/image/ISIC_0025576_basal cell carcinoma.jpg
+ISIC_0025577,squamous cell carcinoma,75,female,lower extremity,benign,static/image/ISIC_0025577_squamous cell carcinoma.jpg
+ISIC_0025578,vascular lesion,5,male,posterior torso,benign,static/image/ISIC_0025578_vascular lesion.jpg
+ISIC_0025594,dermatofibroma,65,female,lower extremity,benign,static/image/ISIC_0025594_dermatofibroma.jpg
+ISIC_0025596,vascular lesion,45,female,anterior torso,benign,static/image/ISIC_0025596_vascular lesion.jpg
+ISIC_0025599,vascular lesion,15,male,head/neck,benign,static/image/ISIC_0025599_vascular lesion.jpg
+ISIC_0025601,basal cell carcinoma,40,female,posterior torso,benign,static/image/ISIC_0025601_basal cell carcinoma.jpg
+ISIC_0025606,vascular lesion,55,male,head/neck,benign,static/image/ISIC_0025606_vascular lesion.jpg
+ISIC_0025612,vascular lesion,45,female,head/neck,benign,static/image/ISIC_0025612_vascular lesion.jpg
+ISIC_0025617,basal cell carcinoma,40,female,head/neck,benign,static/image/ISIC_0025617_basal cell carcinoma.jpg
+ISIC_0025622,dermatofibroma,50,male,lower extremity,benign,static/image/ISIC_0025622_dermatofibroma.jpg
+ISIC_0025628,vascular lesion,80,male,anterior torso,benign,static/image/ISIC_0025628_vascular lesion.jpg
+ISIC_0025630,basal cell carcinoma,60,female,posterior torso,benign,static/image/ISIC_0025630_basal cell carcinoma.jpg
+ISIC_0025637,squamous cell carcinoma,75,male,head/neck,benign,static/image/ISIC_0025637_squamous cell carcinoma.jpg
+ISIC_0025644,basal cell carcinoma,40,female,posterior torso,benign,static/image/ISIC_0025644_basal cell carcinoma.jpg
+ISIC_0025650,basal cell carcinoma,70,male,head/neck,benign,static/image/ISIC_0025650_basal cell carcinoma.jpg
+ISIC_0025668,dermatofibroma,65,male,upper extremity,benign,static/image/ISIC_0025668_dermatofibroma.jpg
+ISIC_0025677,vascular lesion,50,female,anterior torso,benign,static/image/ISIC_0025677_vascular lesion.jpg
+ISIC_0025680,vascular lesion,55,female,upper body,benign,static/image/ISIC_0025680_vascular lesion.jpg
+ISIC_0025691,basal cell carcinoma,50,female,anterior torso,benign,static/image/ISIC_0025691_basal cell carcinoma.jpg
+ISIC_0025696,squamous cell carcinoma,60,male,head/neck,benign,static/image/ISIC_0025696_squamous cell carcinoma.jpg
+ISIC_0025700,basal cell carcinoma,85,female,head/neck,benign,static/image/ISIC_0025700_basal cell carcinoma.jpg
+ISIC_0025707,vascular lesion,35,male,upper body,benign,static/image/ISIC_0025707_vascular lesion.jpg
+ISIC_0025711,basal cell carcinoma,80,male,posterior torso,benign,static/image/ISIC_0025711_basal cell carcinoma.jpg
+ISIC_0025712,squamous cell carcinoma,70,female,anterior torso,benign,static/image/ISIC_0025712_squamous cell carcinoma.jpg
+ISIC_0025718,basal cell carcinoma,70,male,posterior torso,benign,static/image/ISIC_0025718_basal cell carcinoma.jpg
+ISIC_0025731,basal cell carcinoma,65,male,upper body,benign,static/image/ISIC_0025731_basal cell carcinoma.jpg
+ISIC_0025752,basal cell carcinoma,65,male,posterior torso,benign,static/image/ISIC_0025752_basal cell carcinoma.jpg
+ISIC_0025771,dermatofibroma,35,female,lower extremity,benign,static/image/ISIC_0025771_dermatofibroma.jpg
+ISIC_0025780,actinic keratosis,70,male,head/neck,benign,static/image/ISIC_0025780_actinic keratosis.jpg
+ISIC_0025790,squamous cell carcinoma,75,female,lower extremity,benign,static/image/ISIC_0025790_squamous cell carcinoma.jpg
+ISIC_0025793,basal cell carcinoma,60,male,upper body,benign,static/image/ISIC_0025793_basal cell carcinoma.jpg
+ISIC_0025803,actinic keratosis,80,male,head/neck,benign,static/image/ISIC_0025803_actinic keratosis.jpg
+ISIC_0025807,vascular lesion,50,female,upper extremity,benign,static/image/ISIC_0025807_vascular lesion.jpg
+ISIC_0025808,squamous cell carcinoma,50,male,posterior torso,benign,static/image/ISIC_0025808_squamous cell carcinoma.jpg
+ISIC_0025811,squamous cell carcinoma,55,male,upper extremity,benign,static/image/ISIC_0025811_squamous cell carcinoma.jpg
+ISIC_0025818,basal cell carcinoma,70,female,posterior torso,benign,static/image/ISIC_0025818_basal cell carcinoma.jpg
+ISIC_0025824,basal cell carcinoma,75,male,anterior torso,benign,static/image/ISIC_0025824_basal cell carcinoma.jpg
+ISIC_0025826,basal cell carcinoma,65,female,posterior torso,benign,static/image/ISIC_0025826_basal cell carcinoma.jpg
+ISIC_0025831,squamous cell carcinoma,65,female,head/neck,benign,static/image/ISIC_0025831_squamous cell carcinoma.jpg
+ISIC_0025873,vascular lesion,50,female,lower extremity,benign,static/image/ISIC_0025873_vascular lesion.jpg
+ISIC_0025903,dermatofibroma,60,male,anterior torso,benign,static/image/ISIC_0025903_dermatofibroma.jpg
+ISIC_0025911,dermatofibroma,65,female,lower extremity,benign,static/image/ISIC_0025911_dermatofibroma.jpg
+ISIC_0025924,vascular lesion,30,female,lower extremity,benign,static/image/ISIC_0025924_vascular lesion.jpg
+ISIC_0025932,basal cell carcinoma,85,male,head/neck,benign,static/image/ISIC_0025932_basal cell carcinoma.jpg
+ISIC_0025940,basal cell carcinoma,55,male,head/neck,benign,static/image/ISIC_0025940_basal cell carcinoma.jpg
+ISIC_0025948,squamous cell carcinoma,75,male,head/neck,benign,static/image/ISIC_0025948_squamous cell carcinoma.jpg
+ISIC_0025953,actinic keratosis,65,male,head/neck,benign,static/image/ISIC_0025953_actinic keratosis.jpg
+ISIC_0025954,dermatofibroma,40,male,lower extremity,benign,static/image/ISIC_0025954_dermatofibroma.jpg
+ISIC_0025971,basal cell carcinoma,45,male,posterior torso,benign,static/image/ISIC_0025971_basal cell carcinoma.jpg
+ISIC_0025975,basal cell carcinoma,40,male,posterior torso,benign,static/image/ISIC_0025975_basal cell carcinoma.jpg
+ISIC_0025980,dermatofibroma,55,female,lower extremity,benign,static/image/ISIC_0025980_dermatofibroma.jpg
+ISIC_0025992,actinic keratosis,65,male,head/neck,benign,static/image/ISIC_0025992_actinic keratosis.jpg
+ISIC_0026056,basal cell carcinoma,80,male,head/neck,benign,static/image/ISIC_0026056_basal cell carcinoma.jpg
+ISIC_0026068,vascular lesion,55,female,anterior torso,benign,static/image/ISIC_0026068_vascular lesion.jpg
+ISIC_0026074,basal cell carcinoma,40,female,anterior torso,benign,static/image/ISIC_0026074_basal cell carcinoma.jpg
+ISIC_0026083,squamous cell carcinoma,55,male,lower extremity,benign,static/image/ISIC_0026083_squamous cell carcinoma.jpg
+ISIC_0026090,basal cell carcinoma,75,female,upper extremity,benign,static/image/ISIC_0026090_basal cell carcinoma.jpg
+ISIC_0026091,basal cell carcinoma,75,male,posterior torso,benign,static/image/ISIC_0026091_basal cell carcinoma.jpg
+ISIC_0026092,vascular lesion,75,male,upper extremity,benign,static/image/ISIC_0026092_vascular lesion.jpg
+ISIC_0026100,squamous cell carcinoma,70,male,lower extremity,benign,static/image/ISIC_0026100_squamous cell carcinoma.jpg
+ISIC_0026117,basal cell carcinoma,75,female,head/neck,benign,static/image/ISIC_0026117_basal cell carcinoma.jpg
+ISIC_0026118,basal cell carcinoma,80,male,anterior torso,benign,static/image/ISIC_0026118_basal cell carcinoma.jpg
+ISIC_0026132,squamous cell carcinoma,70,male,anterior torso,benign,static/image/ISIC_0026132_squamous cell carcinoma.jpg
+ISIC_0026138,squamous cell carcinoma,85,female,posterior torso,benign,static/image/ISIC_0026138_squamous cell carcinoma.jpg
+ISIC_0026149,actinic keratosis,65,male,head/neck,benign,static/image/ISIC_0026149_actinic keratosis.jpg
+ISIC_0026152,squamous cell carcinoma,70,male,upper extremity,benign,static/image/ISIC_0026152_squamous cell carcinoma.jpg
+ISIC_0026154,basal cell carcinoma,85,male,head/neck,benign,static/image/ISIC_0026154_basal cell carcinoma.jpg
+ISIC_0026163,vascular lesion,50,female,upper extremity,benign,static/image/ISIC_0026163_vascular lesion.jpg
+ISIC_0026171,actinic keratosis,60,female,head/neck,benign,static/image/ISIC_0026171_actinic keratosis.jpg
+ISIC_0026178,squamous cell carcinoma,60,male,posterior torso,benign,static/image/ISIC_0026178_squamous cell carcinoma.jpg
+ISIC_0026192,basal cell carcinoma,70,male,posterior torso,benign,static/image/ISIC_0026192_basal cell carcinoma.jpg
+ISIC_0026194,actinic keratosis,30,male,head/neck,benign,static/image/ISIC_0026194_actinic keratosis.jpg
+ISIC_0026203,squamous cell carcinoma,70,male,posterior torso,benign,static/image/ISIC_0026203_squamous cell carcinoma.jpg
+ISIC_0026206,squamous cell carcinoma,85,male,lower extremity,benign,static/image/ISIC_0026206_squamous cell carcinoma.jpg
+ISIC_0026212,actinic keratosis,45,male,head/neck,benign,static/image/ISIC_0026212_actinic keratosis.jpg
+ISIC_0026213,basal cell carcinoma,70,male,anterior torso,benign,static/image/ISIC_0026213_basal cell carcinoma.jpg
+ISIC_0026230,basal cell carcinoma,50,female,posterior torso,benign,static/image/ISIC_0026230_basal cell carcinoma.jpg
+ISIC_0026254,dermatofibroma,45,male,lower extremity,benign,static/image/ISIC_0026254_dermatofibroma.jpg
+ISIC_0026275,basal cell carcinoma,85,male,head/neck,benign,static/image/ISIC_0026275_basal cell carcinoma.jpg
+ISIC_0026282,basal cell carcinoma,50,male,upper extremity,benign,static/image/ISIC_0026282_basal cell carcinoma.jpg
+ISIC_0026313,dermatofibroma,50,male,lower extremity,benign,static/image/ISIC_0026313_dermatofibroma.jpg
+ISIC_0026319,squamous cell carcinoma,80,male,anterior torso,benign,static/image/ISIC_0026319_squamous cell carcinoma.jpg
+ISIC_0026321,basal cell carcinoma,65,female,head/neck,benign,static/image/ISIC_0026321_basal cell carcinoma.jpg
+ISIC_0026327,squamous cell carcinoma,55,female,upper extremity,benign,static/image/ISIC_0026327_squamous cell carcinoma.jpg
+ISIC_0026336,vascular lesion,50,male,upper body,benign,static/image/ISIC_0026336_vascular lesion.jpg
+ISIC_0026337,basal cell carcinoma,80,male,anterior torso,benign,static/image/ISIC_0026337_basal cell carcinoma.jpg
+ISIC_0026343,basal cell carcinoma,70,male,head/neck,benign,static/image/ISIC_0026343_basal cell carcinoma.jpg
+ISIC_0026349,vascular lesion,60,female,upper body,benign,static/image/ISIC_0026349_vascular lesion.jpg
+ISIC_0026350,basal cell carcinoma,30,female,posterior torso,benign,static/image/ISIC_0026350_basal cell carcinoma.jpg
+ISIC_0026362,squamous cell carcinoma,60,female,upper extremity,benign,static/image/ISIC_0026362_squamous cell carcinoma.jpg
+ISIC_0026388,squamous cell carcinoma,75,female,upper extremity,benign,static/image/ISIC_0026388_squamous cell carcinoma.jpg
+ISIC_0026393,vascular lesion,80,male,upper body,benign,static/image/ISIC_0026393_vascular lesion.jpg
+ISIC_0026395,basal cell carcinoma,50,female,posterior torso,benign,static/image/ISIC_0026395_basal cell carcinoma.jpg
+ISIC_0026411,squamous cell carcinoma,70,female,upper extremity,benign,static/image/ISIC_0026411_squamous cell carcinoma.jpg
+ISIC_0026417,dermatofibroma,30,male,lower extremity,benign,static/image/ISIC_0026417_dermatofibroma.jpg
+ISIC_0026433,basal cell carcinoma,70,male,anterior torso,benign,static/image/ISIC_0026433_basal cell carcinoma.jpg
+ISIC_0026439,basal cell carcinoma,35,male,posterior torso,benign,static/image/ISIC_0026439_basal cell carcinoma.jpg
+ISIC_0026442,basal cell carcinoma,70,male,anterior torso,benign,static/image/ISIC_0026442_basal cell carcinoma.jpg
+ISIC_0026453,basal cell carcinoma,55,female,posterior torso,benign,static/image/ISIC_0026453_basal cell carcinoma.jpg
+ISIC_0026456,vascular lesion,60,male,upper extremity,benign,static/image/ISIC_0026456_vascular lesion.jpg
+ISIC_0026457,actinic keratosis,75,female,lower extremity,benign,static/image/ISIC_0026457_actinic keratosis.jpg
+ISIC_0026466,squamous cell carcinoma,65,female,upper extremity,benign,static/image/ISIC_0026466_squamous cell carcinoma.jpg
+ISIC_0026467,vascular lesion,55,male,lower extremity,benign,static/image/ISIC_0026467_vascular lesion.jpg
+ISIC_0026468,actinic keratosis,50,male,upper extremity,benign,static/image/ISIC_0026468_actinic keratosis.jpg
+ISIC_0026471,dermatofibroma,60,male,lower extremity,benign,static/image/ISIC_0026471_dermatofibroma.jpg
+ISIC_0026473,dermatofibroma,65,male,lower extremity,benign,static/image/ISIC_0026473_dermatofibroma.jpg
+ISIC_0026490,vascular lesion,65,female,upper body,benign,static/image/ISIC_0026490_vascular lesion.jpg
+ISIC_0026492,squamous cell carcinoma,70,male,upper extremity,benign,static/image/ISIC_0026492_squamous cell carcinoma.jpg
+ISIC_0026496,basal cell carcinoma,70,male,lower extremity,benign,static/image/ISIC_0026496_basal cell carcinoma.jpg
+ISIC_0026522,squamous cell carcinoma,50,male,upper extremity,benign,static/image/ISIC_0026522_squamous cell carcinoma.jpg
+ISIC_0026525,actinic keratosis,45,male,head/neck,benign,static/image/ISIC_0026525_actinic keratosis.jpg
+ISIC_0026528,basal cell carcinoma,70,male,upper body,benign,static/image/ISIC_0026528_basal cell carcinoma.jpg
+ISIC_0026549,squamous cell carcinoma,75,male,anterior torso,benign,static/image/ISIC_0026549_squamous cell carcinoma.jpg
+ISIC_0026574,basal cell carcinoma,70,male,lower extremity,benign,static/image/ISIC_0026574_basal cell carcinoma.jpg
+ISIC_0026575,actinic keratosis,80,male,head/neck,benign,static/image/ISIC_0026575_actinic keratosis.jpg
+ISIC_0026593,basal cell carcinoma,85,female,head/neck,benign,static/image/ISIC_0026593_basal cell carcinoma.jpg
+ISIC_0026625,actinic keratosis,60,male,head/neck,benign,static/image/ISIC_0026625_actinic keratosis.jpg
+ISIC_0026626,actinic keratosis,65,female,head/neck,benign,static/image/ISIC_0026626_actinic keratosis.jpg
+ISIC_0026629,dermatofibroma,65,female,lower extremity,benign,static/image/ISIC_0026629_dermatofibroma.jpg
+ISIC_0026645,squamous cell carcinoma,65,male,posterior torso,benign,static/image/ISIC_0026645_squamous cell carcinoma.jpg
+ISIC_0026650,actinic keratosis,70,male,head/neck,benign,static/image/ISIC_0026650_actinic keratosis.jpg
+ISIC_0026693,vascular lesion,75,male,anterior torso,benign,static/image/ISIC_0026693_vascular lesion.jpg
+ISIC_0026702,actinic keratosis,80,female,head/neck,benign,static/image/ISIC_0026702_actinic keratosis.jpg
+ISIC_0026709,actinic keratosis,60,female,head/neck,benign,static/image/ISIC_0026709_actinic keratosis.jpg
+ISIC_0026713,vascular lesion,35,female,upper extremity,benign,static/image/ISIC_0026713_vascular lesion.jpg
+ISIC_0026720,squamous cell carcinoma,75,male,lower extremity,benign,static/image/ISIC_0026720_squamous cell carcinoma.jpg
+ISIC_0026729,actinic keratosis,50,male,head/neck,benign,static/image/ISIC_0026729_actinic keratosis.jpg
+ISIC_0026765,actinic keratosis,55,female,anterior torso,benign,static/image/ISIC_0026765_actinic keratosis.jpg
+ISIC_0026789,dermatofibroma,65,male,lower extremity,benign,static/image/ISIC_0026789_dermatofibroma.jpg
+ISIC_0026848,actinic keratosis,55,male,head/neck,benign,static/image/ISIC_0026848_actinic keratosis.jpg
+ISIC_0026857,actinic keratosis,55,male,head/neck,benign,static/image/ISIC_0026857_actinic keratosis.jpg
+ISIC_0026872,squamous cell carcinoma,85,male,lower extremity,benign,static/image/ISIC_0026872_squamous cell carcinoma.jpg
+ISIC_0026876,vascular lesion,35,female,anterior torso,benign,static/image/ISIC_0026876_vascular lesion.jpg
+ISIC_0026905,actinic keratosis,70,male,upper extremity,benign,static/image/ISIC_0026905_actinic keratosis.jpg
+ISIC_0026981,squamous cell carcinoma,55,male,lower extremity,benign,static/image/ISIC_0026981_squamous cell carcinoma.jpg
+ISIC_0026984,actinic keratosis,50,male,head/neck,benign,static/image/ISIC_0026984_actinic keratosis.jpg
+ISIC_0026992,squamous cell carcinoma,85,male,upper extremity,benign,static/image/ISIC_0026992_squamous cell carcinoma.jpg
+ISIC_0027008,dermatofibroma,75,male,posterior torso,benign,static/image/ISIC_0027008_dermatofibroma.jpg
+ISIC_0027044,dermatofibroma,35,female,lower extremity,benign,static/image/ISIC_0027044_dermatofibroma.jpg
+ISIC_0027047,squamous cell carcinoma,70,male,upper extremity,benign,static/image/ISIC_0027047_squamous cell carcinoma.jpg
+ISIC_0027084,squamous cell carcinoma,65,female,lower extremity,benign,static/image/ISIC_0027084_squamous cell carcinoma.jpg
+ISIC_0027107,dermatofibroma,55,male,upper extremity,benign,static/image/ISIC_0027107_dermatofibroma.jpg
+ISIC_0027141,dermatofibroma,45,female,lower extremity,benign,static/image/ISIC_0027141_dermatofibroma.jpg
+ISIC_0027159,vascular lesion,85,female,upper extremity,benign,static/image/ISIC_0027159_vascular lesion.jpg
+ISIC_0027172,actinic keratosis,75,male,head/neck,benign,static/image/ISIC_0027172_actinic keratosis.jpg
+ISIC_0027178,squamous cell carcinoma,65,male,head/neck,benign,static/image/ISIC_0027178_squamous cell carcinoma.jpg
+ISIC_0027184,squamous cell carcinoma,60,male,posterior torso,benign,static/image/ISIC_0027184_squamous cell carcinoma.jpg
+ISIC_0027210,vascular lesion,30,female,lower extremity,benign,static/image/ISIC_0027210_vascular lesion.jpg
+ISIC_0027216,dermatofibroma,60,female,lower extremity,benign,static/image/ISIC_0027216_dermatofibroma.jpg
+ISIC_0027231,squamous cell carcinoma,85,male,posterior torso,benign,static/image/ISIC_0027231_squamous cell carcinoma.jpg
+ISIC_0027254,actinic keratosis,75,male,head/neck,benign,static/image/ISIC_0027254_actinic keratosis.jpg
+ISIC_0027256,vascular lesion,35,female,posterior torso,benign,static/image/ISIC_0027256_vascular lesion.jpg
+ISIC_0027269,vascular lesion,60,female,upper body,benign,static/image/ISIC_0027269_vascular lesion.jpg
+ISIC_0027294,squamous cell carcinoma,75,female,lower extremity,benign,static/image/ISIC_0027294_squamous cell carcinoma.jpg
+ISIC_0027303,squamous cell carcinoma,85,male,lower extremity,benign,static/image/ISIC_0027303_squamous cell carcinoma.jpg
+ISIC_0027334,actinic keratosis,45,male,upper body,benign,static/image/ISIC_0027334_actinic keratosis.jpg
+ISIC_0027343,squamous cell carcinoma,75,female,lower extremity,benign,static/image/ISIC_0027343_squamous cell carcinoma.jpg
+ISIC_0027385,vascular lesion,20,male,upper body,benign,static/image/ISIC_0027385_vascular lesion.jpg
+ISIC_0027447,actinic keratosis,65,male,upper extremity,benign,static/image/ISIC_0027447_actinic keratosis.jpg
+ISIC_0027452,actinic keratosis,70,male,upper extremity,benign,static/image/ISIC_0027452_actinic keratosis.jpg
+ISIC_0027488,dermatofibroma,45,male,lower extremity,benign,static/image/ISIC_0027488_dermatofibroma.jpg
+ISIC_0027506,squamous cell carcinoma,55,female,upper extremity,benign,static/image/ISIC_0027506_squamous cell carcinoma.jpg
+ISIC_0027522,vascular lesion,55,male,anterior torso,benign,static/image/ISIC_0027522_vascular lesion.jpg
+ISIC_0027529,squamous cell carcinoma,50,male,upper extremity,benign,static/image/ISIC_0027529_squamous cell carcinoma.jpg
+ISIC_0027536,actinic keratosis,65,male,upper extremity,benign,static/image/ISIC_0027536_actinic keratosis.jpg
+ISIC_0027550,squamous cell carcinoma,65,female,upper extremity,benign,static/image/ISIC_0027550_squamous cell carcinoma.jpg
+ISIC_0027562,actinic keratosis,60,female,head/neck,benign,static/image/ISIC_0027562_actinic keratosis.jpg
+ISIC_0027563,vascular lesion,70,male,lower extremity,benign,static/image/ISIC_0027563_vascular lesion.jpg
+ISIC_0027577,squamous cell carcinoma,55,male,head/neck,benign,static/image/ISIC_0027577_squamous cell carcinoma.jpg
+ISIC_0027580,actinic keratosis,75,male,upper extremity,benign,static/image/ISIC_0027580_actinic keratosis.jpg
+ISIC_0027598,dermatofibroma,60,female,lower extremity,benign,static/image/ISIC_0027598_dermatofibroma.jpg
+ISIC_0027613,dermatofibroma,75,female,lower extremity,benign,static/image/ISIC_0027613_dermatofibroma.jpg
+ISIC_0027615,actinic keratosis,70,male,upper extremity,benign,static/image/ISIC_0027615_actinic keratosis.jpg
+ISIC_0027626,dermatofibroma,45,female,upper extremity,benign,static/image/ISIC_0027626_dermatofibroma.jpg
+ISIC_0027648,dermatofibroma,55,male,upper extremity,benign,static/image/ISIC_0027648_dermatofibroma.jpg
+ISIC_0027650,actinic keratosis,40,male,head/neck,benign,static/image/ISIC_0027650_actinic keratosis.jpg
+ISIC_0027665,vascular lesion,50,male,anterior torso,benign,static/image/ISIC_0027665_vascular lesion.jpg
+ISIC_0027668,actinic keratosis,60,male,head/neck,benign,static/image/ISIC_0027668_actinic keratosis.jpg
+ISIC_0027672,vascular lesion,55,female,head/neck,benign,static/image/ISIC_0027672_vascular lesion.jpg
+ISIC_0027678,squamous cell carcinoma,60,male,posterior torso,benign,static/image/ISIC_0027678_squamous cell carcinoma.jpg
+ISIC_0027700,squamous cell carcinoma,80,male,upper extremity,benign,static/image/ISIC_0027700_squamous cell carcinoma.jpg
+ISIC_0027708,squamous cell carcinoma,50,female,head/neck,benign,static/image/ISIC_0027708_squamous cell carcinoma.jpg
+ISIC_0027719,squamous cell carcinoma,60,male,posterior torso,benign,static/image/ISIC_0027719_squamous cell carcinoma.jpg
+ISIC_0027745,dermatofibroma,50,female,lower extremity,benign,static/image/ISIC_0027745_dermatofibroma.jpg
+ISIC_0027753,squamous cell carcinoma,70,male,upper extremity,benign,static/image/ISIC_0027753_squamous cell carcinoma.jpg
+ISIC_0027767,squamous cell carcinoma,85,male,posterior torso,benign,static/image/ISIC_0027767_squamous cell carcinoma.jpg
+ISIC_0027790,vascular lesion,50,female,head/neck,benign,static/image/ISIC_0027790_vascular lesion.jpg
+ISIC_0027795,squamous cell carcinoma,70,male,head/neck,benign,static/image/ISIC_0027795_squamous cell carcinoma.jpg
+ISIC_0027802,actinic keratosis,50,male,head/neck,benign,static/image/ISIC_0027802_actinic keratosis.jpg
+ISIC_0027829,actinic keratosis,55,female,head/neck,benign,static/image/ISIC_0027829_actinic keratosis.jpg
+ISIC_0027856,vascular lesion,45,female,upper body,benign,static/image/ISIC_0027856_vascular lesion.jpg
+ISIC_0027876,dermatofibroma,65,female,lower extremity,benign,static/image/ISIC_0027876_dermatofibroma.jpg
+ISIC_0027884,actinic keratosis,60,male,head/neck,benign,static/image/ISIC_0027884_actinic keratosis.jpg
+ISIC_0027888,vascular lesion,40,male,upper body,benign,static/image/ISIC_0027888_vascular lesion.jpg
+ISIC_0027896,actinic keratosis,75,male,upper extremity,benign,static/image/ISIC_0027896_actinic keratosis.jpg
+ISIC_0027903,vascular lesion,45,female,lower extremity,benign,static/image/ISIC_0027903_vascular lesion.jpg
+ISIC_0027930,squamous cell carcinoma,60,male,head/neck,benign,static/image/ISIC_0027930_squamous cell carcinoma.jpg
+ISIC_0027937,vascular lesion,70,male,upper body,benign,static/image/ISIC_0027937_vascular lesion.jpg
+ISIC_0027950,actinic keratosis,60,female,head/neck,benign,static/image/ISIC_0027950_actinic keratosis.jpg
+ISIC_0027958,actinic keratosis,75,male,upper extremity,benign,static/image/ISIC_0027958_actinic keratosis.jpg
+ISIC_0027983,vascular lesion,75,male,anterior torso,benign,static/image/ISIC_0027983_vascular lesion.jpg
+ISIC_0028063,actinic keratosis,50,male,head/neck,benign,static/image/ISIC_0028063_actinic keratosis.jpg
+ISIC_0028076,actinic keratosis,60,male,lower extremity,benign,static/image/ISIC_0028076_actinic keratosis.jpg
+ISIC_0028132,squamous cell carcinoma,80,female,head/neck,benign,static/image/ISIC_0028132_squamous cell carcinoma.jpg
+ISIC_0028146,vascular lesion,60,female,posterior torso,benign,static/image/ISIC_0028146_vascular lesion.jpg
+ISIC_0028158,squamous cell carcinoma,70,female,posterior torso,benign,static/image/ISIC_0028158_squamous cell carcinoma.jpg
+ISIC_0028163,vascular lesion,25,female,anterior torso,benign,static/image/ISIC_0028163_vascular lesion.jpg
+ISIC_0028188,vascular lesion,85,female,upper extremity,benign,static/image/ISIC_0028188_vascular lesion.jpg
+ISIC_0028190,actinic keratosis,45,male,head/neck,benign,static/image/ISIC_0028190_actinic keratosis.jpg
+ISIC_0028224,squamous cell carcinoma,40,female,anterior torso,benign,static/image/ISIC_0028224_squamous cell carcinoma.jpg
+ISIC_0028231,squamous cell carcinoma,80,male,upper extremity,benign,static/image/ISIC_0028231_squamous cell carcinoma.jpg
+ISIC_0028232,squamous cell carcinoma,60,male,head/neck,benign,static/image/ISIC_0028232_squamous cell carcinoma.jpg
+ISIC_0028314,actinic keratosis,60,male,lower extremity,benign,static/image/ISIC_0028314_actinic keratosis.jpg
+ISIC_0028335,squamous cell carcinoma,60,female,lower extremity,benign,static/image/ISIC_0028335_squamous cell carcinoma.jpg
+ISIC_0028346,dermatofibroma,65,female,lower extremity,benign,static/image/ISIC_0028346_dermatofibroma.jpg
+ISIC_0028370,actinic keratosis,60,male,head/neck,benign,static/image/ISIC_0028370_actinic keratosis.jpg
+ISIC_0028372,squamous cell carcinoma,55,female,upper extremity,benign,static/image/ISIC_0028372_squamous cell carcinoma.jpg
+ISIC_0028381,squamous cell carcinoma,55,female,head/neck,benign,static/image/ISIC_0028381_squamous cell carcinoma.jpg
+ISIC_0028393,actinic keratosis,80,male,head/neck,benign,static/image/ISIC_0028393_actinic keratosis.jpg
+ISIC_0028406,vascular lesion,80,male,anterior torso,benign,static/image/ISIC_0028406_vascular lesion.jpg
+ISIC_0028431,vascular lesion,50,male,anterior torso,benign,static/image/ISIC_0028431_vascular lesion.jpg
+ISIC_0028499,squamous cell carcinoma,80,female,upper extremity,benign,static/image/ISIC_0028499_squamous cell carcinoma.jpg
+ISIC_0028517,actinic keratosis,60,male,upper extremity,benign,static/image/ISIC_0028517_actinic keratosis.jpg
+ISIC_0028558,actinic keratosis,75,male,head/neck,benign,static/image/ISIC_0028558_actinic keratosis.jpg
+ISIC_0028644,squamous cell carcinoma,65,female,anterior torso,benign,static/image/ISIC_0028644_squamous cell carcinoma.jpg
+ISIC_0028651,dermatofibroma,55,female,lower extremity,benign,static/image/ISIC_0028651_dermatofibroma.jpg
+ISIC_0028680,vascular lesion,45,female,upper body,benign,static/image/ISIC_0028680_vascular lesion.jpg
+ISIC_0028714,vascular lesion,60,female,head/neck,benign,static/image/ISIC_0028714_vascular lesion.jpg
+ISIC_0028730,squamous cell carcinoma,65,male,lower extremity,benign,static/image/ISIC_0028730_squamous cell carcinoma.jpg
+ISIC_0028735,dermatofibroma,30,male,lower extremity,benign,static/image/ISIC_0028735_dermatofibroma.jpg
+ISIC_0028763,squamous cell carcinoma,85,male,upper extremity,benign,static/image/ISIC_0028763_squamous cell carcinoma.jpg
+ISIC_0028790,dermatofibroma,75,male,posterior torso,benign,static/image/ISIC_0028790_dermatofibroma.jpg
+ISIC_0028795,squamous cell carcinoma,50,male,upper extremity,benign,static/image/ISIC_0028795_squamous cell carcinoma.jpg
+ISIC_0028816,squamous cell carcinoma,60,male,head/neck,benign,static/image/ISIC_0028816_squamous cell carcinoma.jpg
+ISIC_0028820,actinic keratosis,80,male,lower extremity,benign,static/image/ISIC_0028820_actinic keratosis.jpg
+ISIC_0028854,actinic keratosis,60,male,head/neck,benign,static/image/ISIC_0028854_actinic keratosis.jpg
+ISIC_0028872,squamous cell carcinoma,55,male,lower extremity,benign,static/image/ISIC_0028872_squamous cell carcinoma.jpg
+ISIC_0028880,dermatofibroma,55,male,lower extremity,benign,static/image/ISIC_0028880_dermatofibroma.jpg
+ISIC_0028885,vascular lesion,75,male,posterior torso,benign,static/image/ISIC_0028885_vascular lesion.jpg
+ISIC_0028926,dermatofibroma,65,male,upper extremity,benign,static/image/ISIC_0028926_dermatofibroma.jpg
+ISIC_0028941,actinic keratosis,70,female,head/neck,benign,static/image/ISIC_0028941_actinic keratosis.jpg
+ISIC_0028990,actinic keratosis,70,male,upper extremity,benign,static/image/ISIC_0028990_actinic keratosis.jpg
+ISIC_0029002,squamous cell carcinoma,55,male,head/neck,benign,static/image/ISIC_0029002_squamous cell carcinoma.jpg
+ISIC_0029025,actinic keratosis,70,male,head/neck,benign,static/image/ISIC_0029025_actinic keratosis.jpg
+ISIC_0029039,dermatofibroma,50,female,lower extremity,benign,static/image/ISIC_0029039_dermatofibroma.jpg
+ISIC_0029041,actinic keratosis,80,male,head/neck,benign,static/image/ISIC_0029041_actinic keratosis.jpg
+ISIC_0029043,squamous cell carcinoma,70,male,lower extremity,benign,static/image/ISIC_0029043_squamous cell carcinoma.jpg
+ISIC_0029052,dermatofibroma,75,female,lower extremity,benign,static/image/ISIC_0029052_dermatofibroma.jpg
+ISIC_0029059,squamous cell carcinoma,80,female,lower extremity,benign,static/image/ISIC_0029059_squamous cell carcinoma.jpg
+ISIC_0029067,squamous cell carcinoma,65,male,upper extremity,benign,static/image/ISIC_0029067_squamous cell carcinoma.jpg
+ISIC_0029099,vascular lesion,70,female,anterior torso,benign,static/image/ISIC_0029099_vascular lesion.jpg
+ISIC_0029130,dermatofibroma,70,male,lower extremity,benign,static/image/ISIC_0029130_dermatofibroma.jpg
+ISIC_0029133,actinic keratosis,65,female,head/neck,benign,static/image/ISIC_0029133_actinic keratosis.jpg
+ISIC_0029141,actinic keratosis,60,female,head/neck,benign,static/image/ISIC_0029141_actinic keratosis.jpg
+ISIC_0029177,dermatofibroma,35,female,lower extremity,benign,static/image/ISIC_0029177_dermatofibroma.jpg
+ISIC_0029210,actinic keratosis,40,male,head/neck,benign,static/image/ISIC_0029210_actinic keratosis.jpg
+ISIC_0029248,dermatofibroma,55,male,lower extremity,benign,static/image/ISIC_0029248_dermatofibroma.jpg
+ISIC_0029268,squamous cell carcinoma,85,male,upper extremity,benign,static/image/ISIC_0029268_squamous cell carcinoma.jpg
+ISIC_0029279,squamous cell carcinoma,80,male,lower extremity,benign,static/image/ISIC_0029279_squamous cell carcinoma.jpg
+ISIC_0029297,dermatofibroma,40,female,lower extremity,benign,static/image/ISIC_0029297_dermatofibroma.jpg
+ISIC_0029309,actinic keratosis,80,male,head/neck,benign,static/image/ISIC_0029309_actinic keratosis.jpg
+ISIC_0029315,squamous cell carcinoma,75,male,lower extremity,benign,static/image/ISIC_0029315_squamous cell carcinoma.jpg
+ISIC_0029362,squamous cell carcinoma,80,female,head/neck,benign,static/image/ISIC_0029362_squamous cell carcinoma.jpg
+ISIC_0029404,vascular lesion,10,male,upper body,benign,static/image/ISIC_0029404_vascular lesion.jpg
+ISIC_0029439,vascular lesion,50,male,anterior torso,benign,static/image/ISIC_0029439_vascular lesion.jpg
+ISIC_0029448,vascular lesion,5,male,posterior torso,benign,static/image/ISIC_0029448_vascular lesion.jpg
+ISIC_0029460,actinic keratosis,70,male,head/neck,benign,static/image/ISIC_0029460_actinic keratosis.jpg
+ISIC_0029486,vascular lesion,55,male,posterior torso,benign,static/image/ISIC_0029486_vascular lesion.jpg
+ISIC_0029500,actinic keratosis,45,male,head/neck,benign,static/image/ISIC_0029500_actinic keratosis.jpg
+ISIC_0029514,vascular lesion,55,female,head/neck,benign,static/image/ISIC_0029514_vascular lesion.jpg
+ISIC_0029578,dermatofibroma,60,male,lower extremity,benign,static/image/ISIC_0029578_dermatofibroma.jpg
+ISIC_0029608,vascular lesion,70,male,posterior torso,benign,static/image/ISIC_0029608_vascular lesion.jpg
+ISIC_0029659,actinic keratosis,70,female,head/neck,benign,static/image/ISIC_0029659_actinic keratosis.jpg
+ISIC_0029713,actinic keratosis,85,male,posterior torso,benign,static/image/ISIC_0029713_actinic keratosis.jpg
+ISIC_0029742,vascular lesion,5,male,posterior torso,benign,static/image/ISIC_0029742_vascular lesion.jpg
+ISIC_0029781,actinic keratosis,75,male,head/neck,benign,static/image/ISIC_0029781_actinic keratosis.jpg
+ISIC_0029783,dermatofibroma,40,male,lower extremity,benign,static/image/ISIC_0029783_dermatofibroma.jpg
+ISIC_0029824,dermatofibroma,50,male,lower extremity,benign,static/image/ISIC_0029824_dermatofibroma.jpg
+ISIC_0029827,actinic keratosis,60,male,posterior torso,benign,static/image/ISIC_0029827_actinic keratosis.jpg
+ISIC_0029830,actinic keratosis,60,male,head/neck,benign,static/image/ISIC_0029830_actinic keratosis.jpg
+ISIC_0029840,actinic keratosis,60,male,head/neck,benign,static/image/ISIC_0029840_actinic keratosis.jpg
+ISIC_0029877,vascular lesion,80,male,lower extremity,benign,static/image/ISIC_0029877_vascular lesion.jpg
+ISIC_0029889,vascular lesion,40,female,anterior torso,benign,static/image/ISIC_0029889_vascular lesion.jpg
+ISIC_0029891,dermatofibroma,75,male,lower extremity,benign,static/image/ISIC_0029891_dermatofibroma.jpg
+ISIC_0029900,actinic keratosis,60,male,head/neck,benign,static/image/ISIC_0029900_actinic keratosis.jpg
+ISIC_0029915,actinic keratosis,50,female,head/neck,benign,static/image/ISIC_0029915_actinic keratosis.jpg
+ISIC_0029930,actinic keratosis,70,female,head/neck,benign,static/image/ISIC_0029930_actinic keratosis.jpg
+ISIC_0029962,dermatofibroma,65,male,lower extremity,benign,static/image/ISIC_0029962_dermatofibroma.jpg
+ISIC_0029967,dermatofibroma,65,female,lower extremity,benign,static/image/ISIC_0029967_dermatofibroma.jpg
+ISIC_0029973,dermatofibroma,60,male,lower extremity,benign,static/image/ISIC_0029973_dermatofibroma.jpg
+ISIC_0030011,dermatofibroma,45,female,upper extremity,benign,static/image/ISIC_0030011_dermatofibroma.jpg
+ISIC_0030015,dermatofibroma,65,male,upper extremity,benign,static/image/ISIC_0030015_dermatofibroma.jpg
+ISIC_0030021,dermatofibroma,50,female,upper extremity,benign,static/image/ISIC_0030021_dermatofibroma.jpg
+ISIC_0030036,actinic keratosis,60,male,upper extremity,benign,static/image/ISIC_0030036_actinic keratosis.jpg
+ISIC_0030070,vascular lesion,75,female,upper extremity,benign,static/image/ISIC_0030070_vascular lesion.jpg
+ISIC_0030104,vascular lesion,65,female,upper body,benign,static/image/ISIC_0030104_vascular lesion.jpg
+ISIC_0030133,actinic keratosis,65,male,head/neck,benign,static/image/ISIC_0030133_actinic keratosis.jpg
+ISIC_0030142,actinic keratosis,60,male,lower extremity,benign,static/image/ISIC_0030142_actinic keratosis.jpg
+ISIC_0030143,actinic keratosis,65,female,head/neck,benign,static/image/ISIC_0030143_actinic keratosis.jpg
+ISIC_0030242,actinic keratosis,80,male,head/neck,benign,static/image/ISIC_0030242_actinic keratosis.jpg
+ISIC_0030275,vascular lesion,10,male,upper body,benign,static/image/ISIC_0030275_vascular lesion.jpg
+ISIC_0030283,vascular lesion,55,male,upper body,benign,static/image/ISIC_0030283_vascular lesion.jpg
+ISIC_0030321,dermatofibroma,30,male,upper extremity,benign,static/image/ISIC_0030321_dermatofibroma.jpg
+ISIC_0030344,actinic keratosis,55,female,head/neck,benign,static/image/ISIC_0030344_actinic keratosis.jpg
+ISIC_0030408,actinic keratosis,80,male,head/neck,benign,static/image/ISIC_0030408_actinic keratosis.jpg
+ISIC_0030427,dermatofibroma,45,female,upper extremity,benign,static/image/ISIC_0030427_dermatofibroma.jpg
+ISIC_0030442,dermatofibroma,55,male,lower extremity,benign,static/image/ISIC_0030442_dermatofibroma.jpg
+ISIC_0030463,actinic keratosis,70,female,head/neck,benign,static/image/ISIC_0030463_actinic keratosis.jpg
+ISIC_0030491,actinic keratosis,80,male,head/neck,benign,static/image/ISIC_0030491_actinic keratosis.jpg
+ISIC_0030555,dermatofibroma,70,male,lower extremity,benign,static/image/ISIC_0030555_dermatofibroma.jpg
+ISIC_0030579,dermatofibroma,55,female,upper extremity,benign,static/image/ISIC_0030579_dermatofibroma.jpg
+ISIC_0030586,actinic keratosis,80,male,head/neck,benign,static/image/ISIC_0030586_actinic keratosis.jpg
+ISIC_0030606,vascular lesion,35,female,anterior torso,benign,static/image/ISIC_0030606_vascular lesion.jpg
+ISIC_0030655,actinic keratosis,60,female,head/neck,benign,static/image/ISIC_0030655_actinic keratosis.jpg
+ISIC_0030665,dermatofibroma,55,female,lower extremity,benign,static/image/ISIC_0030665_dermatofibroma.jpg
+ISIC_0030722,vascular lesion,45,female,anterior torso,benign,static/image/ISIC_0030722_vascular lesion.jpg
+ISIC_0030730,actinic keratosis,60,female,head/neck,benign,static/image/ISIC_0030730_actinic keratosis.jpg
+ISIC_0030757,dermatofibroma,80,male,upper extremity,benign,static/image/ISIC_0030757_dermatofibroma.jpg
+ISIC_0030770,vascular lesion,65,female,anterior torso,benign,static/image/ISIC_0030770_vascular lesion.jpg
+ISIC_0030830,dermatofibroma,50,female,upper body,benign,static/image/ISIC_0030830_dermatofibroma.jpg
+ISIC_0030870,dermatofibroma,45,female,lower extremity,benign,static/image/ISIC_0030870_dermatofibroma.jpg
+ISIC_0030882,vascular lesion,20,male,upper body,benign,static/image/ISIC_0030882_vascular lesion.jpg
+ISIC_0030956,vascular lesion,60,female,head/neck,benign,static/image/ISIC_0030956_vascular lesion.jpg
+ISIC_0031065,vascular lesion,35,female,upper body,benign,static/image/ISIC_0031065_vascular lesion.jpg
+ISIC_0031090,vascular lesion,55,female,upper extremity,benign,static/image/ISIC_0031090_vascular lesion.jpg
+ISIC_0031093,vascular lesion,70,male,posterior torso,benign,static/image/ISIC_0031093_vascular lesion.jpg
+ISIC_0031103,vascular lesion,35,female,upper body,benign,static/image/ISIC_0031103_vascular lesion.jpg
+ISIC_0031197,vascular lesion,20,male,upper extremity,benign,static/image/ISIC_0031197_vascular lesion.jpg
+ISIC_0031201,vascular lesion,45,male,upper body,benign,static/image/ISIC_0031201_vascular lesion.jpg
+ISIC_0031215,vascular lesion,75,male,upper body,benign,static/image/ISIC_0031215_vascular lesion.jpg
+ISIC_0031217,vascular lesion,15,male,head/neck,benign,static/image/ISIC_0031217_vascular lesion.jpg
+ISIC_0031257,dermatofibroma,55,female,upper extremity,benign,static/image/ISIC_0031257_dermatofibroma.jpg
+ISIC_0031270,vascular lesion,20,male,upper extremity,benign,static/image/ISIC_0031270_vascular lesion.jpg
+ISIC_0031271,dermatofibroma,45,female,lower extremity,benign,static/image/ISIC_0031271_dermatofibroma.jpg
+ISIC_0031276,vascular lesion,75,male,anterior torso,benign,static/image/ISIC_0031276_vascular lesion.jpg
+ISIC_0031309,dermatofibroma,55,male,lower extremity,benign,static/image/ISIC_0031309_dermatofibroma.jpg
+ISIC_0031335,actinic keratosis,60,male,head/neck,benign,static/image/ISIC_0031335_actinic keratosis.jpg
+ISIC_0031344,dermatofibroma,65,female,lower extremity,benign,static/image/ISIC_0031344_dermatofibroma.jpg
+ISIC_0031346,vascular lesion,70,female,head/neck,benign,static/image/ISIC_0031346_vascular lesion.jpg
+ISIC_0031358,dermatofibroma,80,male,upper extremity,benign,static/image/ISIC_0031358_dermatofibroma.jpg
+ISIC_0031372,dermatofibroma,50,male,lower extremity,benign,static/image/ISIC_0031372_dermatofibroma.jpg
+ISIC_0031381,actinic keratosis,80,male,head/neck,benign,static/image/ISIC_0031381_actinic keratosis.jpg
+ISIC_0031429,dermatofibroma,75,male,lower extremity,benign,static/image/ISIC_0031429_dermatofibroma.jpg
+ISIC_0031430,actinic keratosis,75,female,lower extremity,benign,static/image/ISIC_0031430_actinic keratosis.jpg
+ISIC_0031443,dermatofibroma,60,male,upper extremity,benign,static/image/ISIC_0031443_dermatofibroma.jpg
+ISIC_0031457,dermatofibroma,65,male,lower extremity,benign,static/image/ISIC_0031457_dermatofibroma.jpg
+ISIC_0031506,actinic keratosis,70,male,upper extremity,benign,static/image/ISIC_0031506_actinic keratosis.jpg
+ISIC_0031609,actinic keratosis,55,male,head/neck,benign,static/image/ISIC_0031609_actinic keratosis.jpg
+ISIC_0031648,vascular lesion,25,female,posterior torso,benign,static/image/ISIC_0031648_vascular lesion.jpg
+ISIC_0031706,vascular lesion,60,male,upper body,benign,static/image/ISIC_0031706_vascular lesion.jpg
+ISIC_0031719,vascular lesion,75,female,upper extremity,benign,static/image/ISIC_0031719_vascular lesion.jpg
+ISIC_0031735,dermatofibroma,80,male,upper extremity,benign,static/image/ISIC_0031735_dermatofibroma.jpg
+ISIC_0031759,vascular lesion,80,male,posterior torso,benign,static/image/ISIC_0031759_vascular lesion.jpg
+ISIC_0031799,dermatofibroma,70,male,lower extremity,benign,static/image/ISIC_0031799_dermatofibroma.jpg
+ISIC_0031827,dermatofibroma,50,male,lower extremity,benign,static/image/ISIC_0031827_dermatofibroma.jpg
+ISIC_0031901,vascular lesion,55,male,posterior torso,benign,static/image/ISIC_0031901_vascular lesion.jpg
+ISIC_0031950,vascular lesion,40,male,lower extremity,benign,static/image/ISIC_0031950_vascular lesion.jpg
+ISIC_0031955,vascular lesion,30,female,lower extremity,benign,static/image/ISIC_0031955_vascular lesion.jpg
+ISIC_0031996,vascular lesion,70,female,lower extremity,benign,static/image/ISIC_0031996_vascular lesion.jpg
+ISIC_0032057,vascular lesion,55,female,anterior torso,benign,static/image/ISIC_0032057_vascular lesion.jpg
+ISIC_0032114,dermatofibroma,65,male,lower extremity,benign,static/image/ISIC_0032114_dermatofibroma.jpg
+ISIC_0032138,dermatofibroma,35,female,lower extremity,benign,static/image/ISIC_0032138_dermatofibroma.jpg
+ISIC_0032247,dermatofibroma,75,male,lower extremity,benign,static/image/ISIC_0032247_dermatofibroma.jpg
+ISIC_0032422,actinic keratosis,70,male,head/neck,benign,static/image/ISIC_0032422_actinic keratosis.jpg
+ISIC_0032437,actinic keratosis,65,male,upper extremity,benign,static/image/ISIC_0032437_actinic keratosis.jpg
+ISIC_0032468,dermatofibroma,75,female,lower extremity,benign,static/image/ISIC_0032468_dermatofibroma.jpg
+ISIC_0032613,dermatofibroma,25,female,lower extremity,benign,static/image/ISIC_0032613_dermatofibroma.jpg
+ISIC_0032642,dermatofibroma,50,male,lower extremity,benign,static/image/ISIC_0032642_dermatofibroma.jpg
+ISIC_0032854,actinic keratosis,80,male,head/neck,benign,static/image/ISIC_0032854_actinic keratosis.jpg
+ISIC_0032941,dermatofibroma,50,male,upper extremity,benign,static/image/ISIC_0032941_dermatofibroma.jpg
+ISIC_0033005,dermatofibroma,45,female,lower extremity,benign,static/image/ISIC_0033005_dermatofibroma.jpg
+ISIC_0033151,actinic keratosis,65,female,head/neck,benign,static/image/ISIC_0033151_actinic keratosis.jpg
+ISIC_0033358,actinic keratosis,65,female,head/neck,benign,static/image/ISIC_0033358_actinic keratosis.jpg
+ISIC_0033413,actinic keratosis,70,male,head/neck,benign,static/image/ISIC_0033413_actinic keratosis.jpg
+ISIC_0033456,actinic keratosis,70,male,head/neck,benign,static/image/ISIC_0033456_actinic keratosis.jpg
+ISIC_0033494,actinic keratosis,70,male,head/neck,benign,static/image/ISIC_0033494_actinic keratosis.jpg
+ISIC_0033554,dermatofibroma,35,female,lower extremity,benign,static/image/ISIC_0033554_dermatofibroma.jpg
+ISIC_0033626,dermatofibroma,35,female,lower extremity,benign,static/image/ISIC_0033626_dermatofibroma.jpg
+ISIC_0033675,dermatofibroma,50,male,lower extremity,benign,static/image/ISIC_0033675_dermatofibroma.jpg
+ISIC_0033695,dermatofibroma,45,female,lower extremity,benign,static/image/ISIC_0033695_dermatofibroma.jpg
+ISIC_0033705,actinic keratosis,60,male,head/neck,benign,static/image/ISIC_0033705_actinic keratosis.jpg
+ISIC_0033780,dermatofibroma,35,female,lower extremity,benign,static/image/ISIC_0033780_dermatofibroma.jpg
+ISIC_0033790,dermatofibroma,50,male,lower extremity,benign,static/image/ISIC_0033790_dermatofibroma.jpg
+ISIC_0033808,dermatofibroma,45,male,anterior torso,benign,static/image/ISIC_0033808_dermatofibroma.jpg
+ISIC_0033810,dermatofibroma,35,female,lower extremity,benign,static/image/ISIC_0033810_dermatofibroma.jpg
+ISIC_0033811,actinic keratosis,65,female,head/neck,benign,static/image/ISIC_0033811_actinic keratosis.jpg
+ISIC_0033847,dermatofibroma,45,male,anterior torso,benign,static/image/ISIC_0033847_dermatofibroma.jpg
+ISIC_0033860,dermatofibroma,45,male,anterior torso,benign,static/image/ISIC_0033860_dermatofibroma.jpg
+ISIC_0033866,actinic keratosis,80,male,head/neck,benign,static/image/ISIC_0033866_actinic keratosis.jpg
+ISIC_0033891,dermatofibroma,35,female,lower extremity,benign,static/image/ISIC_0033891_dermatofibroma.jpg
+ISIC_0034135,dermatofibroma,35,female,lower extremity,benign,static/image/ISIC_0034135_dermatofibroma.jpg
